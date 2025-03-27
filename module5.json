@@ -1,0 +1,544 @@
+{
+  "2005": [
+    {
+      "question": "Vertebrate fossils are most important for the study of the:",
+      "options": [
+          "Intratrappean beds",
+          "Gondwana rocks",
+          "Siwalik rocks",
+          "Zewan beds"
+      ],
+      "answer": "Siwalik rocks"
+    },
+    {
+      "question": "The Devonian marker horizon in the Himalayas is known as:",
+      "options": [
+        "Lipak Formation",
+        "Muth Quartzite",
+        "Po Formation",
+        "Syringothyris Limestone"
+      ],
+      "answer": "Muth Quartzite"
+    }
+  ],
+  "2006": [
+    {
+      "question": "Which one of the following series of rock formations is arranged in the correct stratigraphic order (i.e. from older to younger)?",
+      "options": [
+          "Malani volcanics - Panjal volcanics - Rajmahal volcanics - Deccan volcanics",
+          "Dhokpathan - Tatrot - Boulder Conglomerate - Pinjor",
+          "Uttatur - Ariyalur - Niniyur - Trichinopoly",
+          "Talchir - Panchet - Damuda - Mahadeva"
+      ],
+      "answer": "Malani volcanics - Panjal volcanics - Rajmahal volcanics - Deccan volcanics"
+    },
+    {
+      "question": "Match the following: Group I: P. Lameta Formation Q. Raniganj Formation R. Pinjor Formation S. Umaria Marine Beds Group II: 1. Elephas 2. Glossopteris 3. Titanosaurus 4. Productus",
+      "options": [
+        "P-4, Q-1, R-2, S-3",
+        "P-1, Q-3, R-4, S-2",
+        "P-2, Q-1, R-3, S-4",
+        "P-3, Q-2, R-1, S-4"
+      ],
+      "answer": "P-3, Q-2, R-1, S-4"
+    },
+    {
+      "question": "Ophiolitic melange is characteristic of:",
+      "options": [
+        "Lesser Himalaya",
+        "Higher Himalaya",
+        "Outer Himalaya",
+        "Indus Suture Zone"
+      ],
+      "answer": "Indus Suture Zone"
+    },
+    {
+      "question": "Identify the incorrect pair:",
+      "options": [
+        "Lithostratigraphy - Formation",
+        "Biostratigraphy - Interval Zone",
+        "Chronostratigraphy - Series",
+        "Geochronology - System"
+      ],
+      "answer": "Geochronology - System"
+    }
+  ],
+  "2007": [
+    {
+      "question": "Which of the following stratigraphic units contains dinosaur fossils?",
+      "options": [
+          "Lameta",
+          "Muth Quartzite",
+          "Siwalik",
+          "Subathu"
+      ],
+      "answer": "Lameta"
+    },
+    {
+      "question": "Match sedimentary formations in Group I with their corresponding ages in Group II. Group I: P. Maleri Q. Karewa R. Ariyalur S. Barail Group II: 1. Oligocene 2. Plio-Pleistocene 3. Cretaceous 4. Triassic",
+      "options": [
+        "P-1, Q-2, R-3, S-4",
+        "P-2, Q-1, R-4, S-3",
+        "P-4, Q-3, R-2, S-1",
+        "P-4, Q-2, R-3, S-1"
+      ],
+      "answer": "P-4, Q-2, R-3, S-1"
+    },
+    {
+      "question": "Which of the following series of stratigraphic units is arranged in the order from older to younger age?",
+      "options": [
+        "Cheyair - Rewa - Sausar - Gondwana",
+        "Sausar - Cheyair - Rewa - Gondwana",
+        "Gondwana - Rewa - Cheyair - Sausar",
+        "Rewa - Gondwana - Sausar - Cheyair"
+      ],
+      "answer": "Sausar - Cheyair - Rewa - Gondwana"
+    }
+  ],
+  "2008": [
+    {
+      "question": "Select the correct stratigraphic sequence of the Vindhyan Supergroup.",
+      "options": [
+          "Semri - Kaimur - Rewa - Bhander",
+          "Rewa - Bhander - Kaimur - Semri",
+          "Semri - Rewa - Kaimur - Bhander",
+          "Semri - Bhander - Rewa - Kaimur"
+      ],
+      "answer": "Semri - Kaimur - Rewa - Bhander"
+    },
+    {
+      "question": "Match the stratigraphic units listed in Group I with their respective ages mentioned in Group II. Group I: P. Deccan Trap Q. Panjal Trap R. Malani Rhyolite S. Rajmahal Trap Group II: 1. Jurassic 2. Cretaceous 3. Permian 4. Proterozoic",
+      "options": [
+          "P-1, Q-2, R-3, S-4",
+          "P-2, Q-3, R-4, S-1",
+          "P-2, Q-4, R-3, S-1",
+          "P-1, Q-3, R-4, S-2"
+      ],
+      "answer": "P-2, Q-3, R-4, S-1"
+    }
+  ],
+  "2009": [
+    {
+      "question": "What is the most commonly agreed age of the Archean-Proterozoic boundary?",
+      "options": [
+          "1500 Ma",
+          "2500 Ma",
+          "570 Ma",
+          "3500 Ma"
+      ],
+      "answer": "2500 Ma"
+    },
+    {
+      "question": "Which one of the following stratigraphic units is marine?",
+      "options": [
+        "Umaria Beds",
+        "Kamthi Beds",
+        "Pali Beds",
+        "Barren Measures"
+      ],
+      "answer": "Umaria Beds"
+    },
+    {
+      "question": "Match the stratigraphic units listed in Group I with their respective ages mentioned in Group II. Group I: P. Neobolus Beds Q. Muth Quartzites R. Katrol Group S. Tipam Sandstone Group II: 1. Devonian 2. Miocene 3. Jurassic 4. Cambrian",
+      "options": [
+        "P-1, Q-2, R-3, S-4",
+        "P-2, Q-3, R-1, S-4",
+        "P-4, Q-1, R-3, S-2",
+        "P-2, Q-1, R-4, S-3"
+      ],
+      "answer": "P-4, Q-1, R-3, S-2"
+    }
+  ],
+  "2010": [
+    {
+      "question": "Which one of the following successions represents the correct stratigraphic order from bottom to top?",
+      "options": [
+          "Uttatur Group - Trichinopolly Group - Ariyalur Group - Niniyur Group",
+          "Trichinopolly Group - Uttatur Group - Ariyalur Group - Niniyur Group",
+          "Uttatur Group - Trichinopolly Group - Niniyur Group - Ariyalur Group",
+          "Niniyur Group - Trichinopolly Group - Uttatur Group - Ariyalur Group"
+      ],
+      "answer": "Uttatur Group - Trichinopolly Group - Niniyur Group - Ariyalur Group"
+    },
+    {
+      "question": "Which one of the following stratigraphic units does occur outside the Aravalli Craton?",
+      "options": [
+          "Berach Granite",
+          "Untala Granite",
+          "Gingla Granito",
+          "Closepet Granite"
+      ],
+      "answer": "Gingla Granito"
+    }
+  ],
+  "2011": [
+    {
+      "question": "Match the fossil group in (Group I) with the corresponding stratigraphic unit in (Group II): Group I: P. Equidae Q. Stromatolites R. Dinosaurs S. Brachiopoda Group II: 1. Triassic of Spiti 2. Gondwana Supergroup 3. Siwalik Group 4. Vindhyan Supergroup",
+      "options": [
+        "P-4, Q-3, R-2, S-1",
+        "P-3, Q-4, R-2, S-1",
+        "P-3, Q-1, R-4, S-2",
+        "P-3, Q-2, R-4, S-1"
+      ],
+      "answer": "P-3, Q-4, R-2, S-1"
+    },
+    {
+      "question": "Ammonoid genus Macrocephalites is found in:",
+      "options": [
+        "Talchir Formation of Satpura Basin",
+        "Bijori Formation of Satpura Basin",
+        "Patcham Formation of Kachchh",
+        "Bhuj Formation of Kachchh"
+      ],
+      "answer": "Patcham Formation of Kachchh"
+    },
+    {
+      "question": "Which of the following sequences of lithostratigraphic units is arranged in the correct order from older to younger age?",
+      "options": [
+        "Kamiali - Nagri - Chinji - Dhokpathan - Pinjor - Tatrot",
+        "Papaghni - Cheyair - Nallamalai - Kistna",
+        "Talchir - Barakar - Pachmarhi - Bijori - Motur - Bagra",
+        "Banded Gneissic Complex - Raialo - Aravalli - Delhi"
+      ],
+      "answer": "Papaghni - Cheyair - Nallamalai - Kistna"
+    },
+    {
+      "question": "Match the lithostratigraphic unit in (Group I) with the corresponding time unit in (Group II): Group I: P. Kolhan Group Q. Kaharbari Formation R. Kota Formation S. Kamthi Formation Group II: 1. Triassic 2. Proterozoic 3. Permian 4. Jurassic",
+      "options": [
+        "P-2, Q-3, R-4, S-1",
+        "P-3, Q-1, R-4, S-2",
+        "P-2, Q-4, R-1, S-2",
+        "P-3, Q-2, R-4, S-1"
+      ],
+      "answer": "P-2, Q-3, R-4, S-1"
+    }
+  ],
+  "2012": [
+    {
+      "question": "Match the following volcanic stratigraphic units in Group I with their given ages in Group II. Group I: P. Malani Rhyolite Q. Dalma Volcanics R. Panjal Trap S. Rajmahal Trap Group II: 1. Meso- to Paleoproterozoic 2. Paleozoic 3. Mesozoic 4. Neoproterozoic",
+      "options": [
+          "P-4, Q-1, R-2, S-3",
+          "P-1, Q-4, R-3, S-2",
+          "P-2, Q-4, R-1, S-3",
+          "P-4, Q-3, R-2, S-1"
+      ],
+      "answer": "P-4, Q-1, R-2, S-3"
+    }
+  ],
+  "2013": [
+    {
+      "question": "Match the Hthostraitigraphic units in (Group I) with their corresponding geological period in (Group II): Group I: P. Mamal Formation Q. Fenestella Shale R. Maleri Formation S. Lameta Formation Group II: 1. Triassic 2. Permian 3. Cretaceous 4. Carboniferous",
+      "options": [
+        "P-2, Q-4, R-1, S-3",
+        "P-4, Q-2, R-1, S-3",
+        "P-2, Q-3, R-4, S-1",
+        "P-4, Q-1, R-2, S-3"
+      ],
+      "answer": "P-2, Q-4, R-1, S-3"
+    }
+  ],
+  "2014": [
+    {
+      "question": "Identify the correct chronostratigraphic sequence of the Siwalik Group from the following (oldest to youngest):",
+      "options": [
+          "Pinjor-Nagri-Dhok Pathan-Tatrot",
+          "Nagri-Dhok Pathan-Tatrot-Pinjor",
+          "Dhok Pathan-Tatrot-Nagri-Pinjor",
+          "Tatrot-Pinjor-Nagri-Dhok Pathan"
+      ],
+      "answer": "Nagri-Dhok Pathan-Tatrot-Pinjor"
+    },
+    {
+      "question": "Choose the correct statement from the following:",
+      "options": [
+        "Vindhyan Supergroup is devoid of limestone",
+        "The top of the Cuddapah Supergroup is Phanerozoic",
+        "Kaladgi basin is situated in the Bastar Craton",
+        "The Mesozoic Bhuj Formation consists predominantly of sandstone"
+      ],
+      "answer": "The Mesozoic Bhuj Formation consists predominantly of sandstone"
+    },
+    {
+      "question": "Which combination of geological entities occurs in the same craton?",
+      "options": [
+        "Chitradurga schist belt - Closepet Granite - Hutti gold mine",
+        "Bhilwara Supergroup - Sittampundi anorthosite - Zawar Pb-Zn deposit",
+        "Kolar schist belt - Malani rhyolite - Malanjkhand copper deposit",
+        "Mansar Formation - Makrana marble - Sukinda chromite deposit"
+      ],
+      "answer": "Chitradurga schist belt - Closepet Granite - Hutti gold mine"
+    }
+  ],
+  "2015": [
+    {
+      "question": "Arrange the following formations of the Gondwana Supergroup in order of their decreasing age: (i) Raniganj Formation (ii) Barakar Formation (iii) Kulti Formation (iv) Karharbari Formation",
+      "options": [
+          "(i) – (iii) – (ii) – (iv)",
+          "(i) – (ii) – (iii) – (iv)",
+          "(iv) – (iii) – (ii) – (i)",
+          "(iv) – (ii) – (iii) – (i)"
+      ],
+      "answer": "(iv) – (ii) – (iii) – (i)"
+    },
+    {
+        "question": "Which of the following chronostratigraphic unit(s) is/are correctly matched with the corresponding geochronologic unit(s)? (Multiple Select Question)",
+        "options": [
+            "System – Period",
+            "Stage – Era",
+            "Series – Epoch",
+            "Chronozone – Age"
+        ],
+        "answer": ["System – Period", "Series – Epoch"]
+    },
+    {
+      "question": "Arrange the following granitoid bodies in order of their decreasing age: (P) Erinpura Granite, (Q) Closepet Granite, (R) Singhbhum Granite, (S) Ladakh Granitoids",
+      "options": [
+        "R P Q S",
+        "S Q R P",
+        "R Q P S",
+        "Q-R-S-P"
+      ],
+      "answer": "R Q P S"
+    },
+    {
+      "question": "Which of the following formation(s) was/were deposited in glacial and/or fluvial environment? (Multiple Select Question)",
+      "options": [
+        "Sohana Formation",
+        "Karewa Formation",
+        "Indus Formation",
+        "Blaini Formation"
+      ],
+      "answer": ["Karewa Formation" , "Blaini Formation"]
+    },
+    {
+      "question": "Which of the following stratigraphic units are correctly matched with their ages and geographical localities? (Multiple Select Question)",
+      "options": [
+        "Niniyur Formation - Cretaceous - Cauvery basin",
+        "Long Formation - Oligocene - Andaman-Nicobar",
+        "Zewan Formation - Permian - Kashmir-Lidar valley",
+        "Bhander Group - Early Proterozoic - Vindhyan basin"
+      ],
+      "answer": "Zewan Formation - Permian - Kashmir-Lidar valley"
+    },
+    {
+      "question": "The duration of the Proterozoic Eon in Ma is",
+      "options": [],
+      "answer" : "2500 Ma"
+    }
+  ],
+  "2016": [
+    {
+      "question": "Mississippian and Pennsylvanian belong to which period?",
+      "options": [
+          "Permian",
+          "Devonian",
+          "Carboniferous",
+          "Silurian"
+      ],
+      "answer": "Carboniferous"
+    },
+    {
+      "question": "Choose the correct chronological order from oldest to youngest for the following stratigraphic units: P. Chitradurga Group, Q. Sargur Group, R. Ajabgarh Group, S. Udaipur Group",
+      "options": [
+        "Q, P, S, R",
+        "P, Q, S, R",
+        "Q, R, P, S",
+        "Q, R, S, P"
+      ],
+      "answer": "Q, P, S, R"
+    },
+    {
+      "question": "Match the following stratigraphic units (Group I) with their ages (Group II). Group I: i. Cumbum Formation, ii. Baisakhi Formation, iii. Kopih Formation, iv. Barakar Formation. Group II: P. Cenozoic, Q. Mesozoic, R. Paleozoic, S. Proterozoic",
+      "options": [
+        "i-R, ii-P, iii-Q, iv-S",
+        "i-S, ii-Q, iii-P, iv-R",
+        "i-S, ii-R, iii-P, iv-Q",
+        "i-S, ii-Q, iii-R, iv-P"
+      ],
+      "answer": "i-S, ii-Q, iii-P, iv-R"
+    },
+    {
+      "question": "Which of the following stratigraphic units belong(s) to the Cretaceous? (Multiple Select Question)",
+      "options": [
+        "A. Bhuj Formation",
+        "B. Ariyalur Group",
+        "C. Patcham Formation",
+        "D. Katrol Formation"
+      ],
+      "answer": ["A", "B"]
+    }
+  ],
+  "2017": [
+    {
+      "question": "The age of the Patcham Formation is:",
+      "options": [
+          "Permian",
+          "Triassic",
+          "Jurassic",
+          "Cretaceous"
+      ],
+      "answer": "Jurassic"
+    },
+    {
+      "question": "Which one of the following lithostratigraphic units is of Phanerozoic Eon?",
+      "options": [
+          "Sargur Group",
+          "Semri Group",
+          "Uttatur Group",
+          "Papaghni Group"
+      ],
+      "answer": "Uttatur Group"
+    },
+    {
+      "question": "Match the igneous bodies in Group I with their ages in Group II. P. Singhbhum granite Q. Malani rhyolite R. Deccan volcanics S. Panjal Traps Group II 1. Neoproterzoic 2. Cretaceous 3. Permian 4. Archaean",
+      "options": [
+          "P-3, Q-2, R-4, S-1",
+          "P-4, Q-1, R-2, S-3",
+          "P-4, Q-3, R-2, S-1",
+          "P-3, Q-4, R-2, S-1"
+      ],
+      "answer": "P-4, Q-1, R-2, S-3"
+    },
+    {
+      "question": "Match the geological processes (Group I) with their examples in Indian stratigraphy (Group II). Group I: P. Permo-Carboniferous glaciation Q. Cretaceous marine transgression R. Neogene fluvial sedimentation S. Cretaceous inter-trappean sedimentation Group II: 1. Ariyalur Group 2. Siwalik Group 3. Talchir Formation 4. Lameta Formation",
+      "options": [
+        "P-3, Q-1, R-2, S-4",
+        "P-2, Q-3, R-4, S-1",
+        "P-3, Q-2, R-1, S-4",
+        "P-4, Q-1, R-2, S-3"
+      ],
+      "answer": "P-3, Q-1, R-2, S-4"
+    },
+    {
+      "question": "Which of the following stratigraphic units is/are coal/lignite-bearing? (Multiple Select Question)",
+      "options": [
+        "Barakar Formation",
+        "Barail Group",
+        "Cuddalore Formation",
+        "Ariyalur Formation"
+      ],
+      "answer": ["A","B","C"]
+    }
+  ],
+  "2018": [
+    {
+      "question": "The correct combination(s) of ranks and corresponding categories of stratigraphic units is/are:",
+      "options": [
+          "Formation – Lithostratigraphy",
+          "System – Chronostratigraphy",
+          "Period – Chronostratigraphy",
+          "Group – Biostratigraphy"
+      ],
+      "answer": ["Formation – Lithostratigraphy", "System – Chronostratigraphy", "Period – Chronostratigraphy"]
+    },
+    {
+      "question": "The correct chronological sequence (older to younger) of the Precambrian stratigraphic units listed below is:",
+      "options": [
+        "Sargur Group, Chitradurga Group, Alwar Group, Kaimur Group",
+        "Chitradurga Group, Sargur Group, Kaimur Group, Alwar Group",
+        "Sargur Group, Alwar Group, Chitradurga Group, Kaimur Group",
+        "Sargur Group, Chitradurga Group, Kaimur Group, Alwar Group"
+      ],
+      "answer": "Sargur Group, Chitradurga Group, Kaimur Group, Alwar Group"
+    },
+    {
+      "question": "Match the Formations in Group I with corresponding characteristic fossils in Group II. Group I: P. Barakar Formation Q. Uttatur Formation R. Dhok Pathan Formation S. Lameta Formation Group II: 1. Nagerodon 2. Sauropoda 3. Belemnites 4. Glossopteris",
+      "options": [
+        "P-3, Q-1, R-4, S-2",
+        "P-4, Q-1, R-3, S-2",
+        "P-3, Q-1, R-4, S-2",
+        "P-4, Q-3, R-2, S-1"
+      ],
+      "answer": "P-4, Q-1, R-3, S-2"
+    }
+  ],
+  "2019": [
+    {
+      "question": "Permian is a/an:",
+      "options": [
+          "Eon",
+          "Era",
+          "Epoch",
+          "Period"
+      ],
+      "answer": "Period"
+    },
+    {
+      "question": "Dicroidium is known from the:",
+      "options": [
+        "Pachmarhi Formation",
+        "Raniganj Formation",
+        "Panchet Formation",
+        "Denwa Formation"
+      ],
+      "answer": "Panchet Formation"
+    },
+    {
+      "question": "Match the Precambrian lithounits in Group I with corresponding cratons in Group II. Group I: P. Kolhan Group Q. Debari Group R. Bababudan Group S. Sukma Group Group II: 1. Aravalli 2. Bastar 3. Singhbhum 4. Dharwar",
+      "options": [
+        "P-2, Q-4, R-1, S-3",
+        "P-3, Q-4, R-1, S-2",
+        "P-3, Q-1, R-4, S-2",
+        "P-2, Q-1, R-4, S-3"
+      ],
+      "answer": "P-3, Q-1, R-4, S-2"
+    },
+    {
+      "question": "Select the pair(s) that is/are correctly matched. (Multiple Select Question)",
+      "options": [
+        "Lathi Formation - Jurassic wood fossils",
+        "Pinjor Formation - Jurassic wood fossils",
+        "Panchet Formation - Triassic reptile fossils",
+        "Kota Formation - Permian glossopterid fossils"
+      ],
+      "answer": ["A","C"]
+    }
+  ],
+  "2020": [
+    {
+      "question": "Mammalian fossils are commonly found in:",
+      "options": [
+          "Haimanta Group",
+          "Jabalpur Group",
+          "Siwalik Group",
+          "Uttatur Group"
+      ],
+      "answer": "Siwalik Group"
+    },
+    {
+        "question": "Evidence of Late Paleozoic glaciation is recorded in:",
+        "options": [
+            "Panchet Formation",
+            "Talchir Formation",
+            "Motur Formation",
+            "Barakar Formation"
+        ],
+        "answer": "Talchir Formation"
+    },
+    {
+      "question": "The Mesozoic Era approximately ranges from:",
+      "options": [
+        "1000-540 Ma",
+        "250-65 Ma",
+        "540-250 Ma",
+        "65 Ma-Present"
+      ],
+      "answer": "250-65 Ma"
+    },
+    {
+      "question": "Match the name of granitoid in Group I with the corresponding Craton in Group II. Group I: P. Clospet Q. Berach R. Dongargarh S. Mayurbhanj Group II: 1. Singhbhum 2. Bastar 3. Dharwar 4. Aravalli",
+      "options": [
+        "P-4, Q-2, R-1, S-3",
+        "P-3, Q-4, R-2, S-1",
+        "P-3, Q-4, R-1, S-2",
+        "P-4, Q-2, R-3, S-1"
+      ],
+      "answer": "P-3, Q-4, R-2, S-1"
+    }
+  ],
+  "2021": [],
+  "2022": [],
+  "2023": [],
+  "2024": [],
+  "2025": []
+}
