@@ -1,0 +1,569 @@
+{
+  "2005": [
+    {
+      "question": "The presence of a pallial sinus in a bivalve shell indicates its:",
+      "options": [
+          "infaunal habitat",
+          "epifaunal habitat",
+          "planktonic habitat",
+          "pelagic habitat"
+      ],
+      "answer": "infaunal habitat"
+    },
+    {
+      "question": "Character of sutures is the sole criterion for recognizing the evolution of ammonoids during the:",
+      "options": [
+          "Early Paleozoic Periods",
+          "Late Paleozoic Periods",
+          "Mesozoic Era",
+          "Cenozoic Era"
+      ],
+      "answer": "Mesozoic Era"
+    },
+    {
+      "question": "As index fossils, brachiopods were important during the:",
+      "options": [
+          "Late Cretaceous",
+          "Middle Jurassic",
+          "Early Jurassic",
+          "Late Paleozoic"
+      ],
+      "answer": "Late Paleozoic"
+    }
+  ],
+  "2006": [
+    {
+      "question": "Which one of the following groups of organisms belongs to terrestrial / fresh-water environment?",
+      "options": [
+          "Echinoids",
+          "Brachiopods",
+          "Corals",
+          "Pulmonate gastropods"
+      ],
+      "answer": "Pulmonate gastropods"
+    },
+    {
+      "question": "Match the following: Group I: P. Micraster Q. Phacops R. Equus S. Barappasaurus Group II: 1. Trilobite 2. Dinosaur 3. Mammal 4. Echinoid",
+      "options": [
+          "P-1, Q-2, R-3, S-4",
+          "P-2, Q-1, R-4, S-3",
+          "P-3, Q-4, R-2, S-1",
+          "P-4, Q-1, R-3, S-2"
+      ],
+      "answer": "P-4, Q-1, R-3, S-2"
+    },
+    {
+        "question": "Acme zone indicates the:",
+        "options": [
+            "range of a fossil species",
+            "absence of a fossil species",
+            "maximum abundance of a fossil species",
+            "migration of a fossil species"
+        ],
+        "answer": "maximum abundance of a fossil species"
+    }
+  ],
+  "2007": [
+    {
+      "question": "The occurrence of ammonites in a sequence suggests:",
+      "options": [
+          "Cenozoic age and freshwater environment",
+          "Cenozoic age and marine environment",
+          "Mesozoic age and freshwater environment",
+          "Mesozoic age and marine environment"
+      ],
+      "answer": "Mesozoic age and marine environment"
+    },
+    {
+        "question": "The presence of reef corals in a sedimentary sequence indicates that deposition took place:",
+        "options": [
+            "near the equator",
+            "near the poles",
+            "in fluvial environment",
+            "in deep sea environment"
+        ],
+        "answer": "near the equator"
+    },
+    {
+      "question": "Match the organisms listed in Group I with their respective symmetry elements in Group II: Group I: P. Brachiopods Q. Pelecypods R. Echinoids S. Helically coiled gastropods Group II: 1. Asymmetric 2. Plane of symmetry bisects the two valves 3. Plane of symmetry lies between the two valves 4. Five-fold radial symmetry",
+      "options": [
+          "P-1, Q-2, R-3, S-4",
+          "P-4, Q-1, R-2, S-3",
+          "P-3, Q-4, R-2, S-1",
+          "P-2, Q-3, R-4, S-1"
+      ],
+      "answer": "P-2, Q-3, R-4, S-1"
+    },
+    {
+      "question": "Match the fossil taxa listed in Group I with their characteristic morphological features in Group II:\n\nGroup I:\nP. Paradoxides\nQ. Didymograptus\nR. Physa\nS. Ceratites\n\nGroup II:\n1. Two pendent stipes\n2. Sinistral coiling\n3. Genal spines\n4. Sutures with undivided saddles",
+      "options": [
+          "P-3, Q-2, R-4, S-1",
+          "P-3, Q-1, R-2, S-4",
+          "P-2, Q-1, R-4, S-3",
+          "P-2, Q-1, R-3, S-4"
+      ],
+      "answer": "P-3, Q-1, R-2, S-4"
+    }
+  ],
+  "2008": [
+    {
+      "question": "Globotruncana-bearing sequence indicates a shallow marine sedimentary succession deposited during:",
+      "options": [
+          "Cretaceous",
+          "Eocene",
+          "Jurassic",
+          "Oligocene"
+      ],
+      "answer": "Cretaceous"
+    },
+    {
+        "question": "Terebratula is the characteristic genera of:",
+        "options": [
+            "Mesozoic",
+            "Cenozoic",
+            "Quaternary",
+            "Paleozoic"
+        ],
+        "answer": "No option is correct"
+    }
+  ],
+  "2009": [
+    {
+      "question": "Which one of the following is a Lower Gondwana flora?",
+      "options": [
+          "Gangamopteris",
+          "Ptilophyllum",
+          "Otozamites",
+          "Nilssonia"
+      ],
+      "answer": "Gangamopteris"
+    },
+    {
+      "question": "Which of the following is a Middle Cambrian Trilobite?",
+      "options": [
+          "Olenus",
+          "Paradoxides",
+          "Olenellus",
+          "Phacops"
+      ],
+      "answer": "Paradoxides"
+    },
+    {
+      "question": "In a pelecypod shell, if umbos curve is in such a way that the beak points in an anterior direction, the umbos are:",
+      "options": [
+          "Opisthogyrate",
+          "Prosogyrate",
+          "Orthogyrate",
+          "Spirogyrate"
+      ],
+      "answer": "Prosogyrate"
+    }
+  ],
+  "2010": [
+    {
+      "question": "Match the dentition type in Group I with the Bivalvia genus in Group II.\nGroup I: (P) Heterodont, (Q) Desmodont, (R) Dysodont, (S) Schizodont\nGroup II: (1) Trigonia, (2) Cerastoderma, (3) Mya, (4) Mytilus",
+      "options": [
+          "(P) - 2, (Q) - 3, (R) - 1, (S) - 4",
+          "(P) - 1, (Q) - 3, (R) - 2, (S) - 4",
+          "(P) - 2, (Q) - 3, (R) - 4, (S) - 1",
+          "(P) - 1, (Q) - 2, (R) - 3, (S) - 4"
+      ],
+      "answer": "(P) - 2, (Q) - 3, (R) - 4, (S) - 1"
+    },
+    {
+        "question": "Which one of the following flora belongs to the Lower Gondwana?",
+        "options": [
+            "Gangamopteris",
+            "Cladophebis",
+            "Sphenopteris",
+            "Ptilophyllum"
+        ],
+        "answer": "Gangamopteris"
+    }
+  ],
+  "2011": [
+    {
+      "question": "Match the feature in Group I with appropriate taxon in Group II:\n\nGroup-I:\nP. Monomyarian\nQ. Deltidial plates\nR. Corona\nS. Epitheca\n\nGroup-II:\n1. Echinoidea\n2. Anthozoa\n3. Pelecypoda\n4. Brachiopoda",
+      "options": [
+          "P-3, Q-4, R-1, S-2",
+          "P-4, Q-2, R-1, S-3",
+          "P-4, Q-3, R-2, S-1",
+          "P-3, Q-4, R-2, S-1"
+      ],
+      "answer": "P-3, Q-4, R-1, S-2"
+    }
+  ],
+  "2012": [
+    {
+      "question": "Which one of the following fossils is found in rocks of Cambrian age?",
+      "options": [
+          "Redlichia",
+          "Fenestella",
+          "Syringothyris",
+          "Otoceras"
+      ],
+      "answer": "Redlichia"
+    },
+    {
+      "question": "Match the morphological features described in Group I with their names listed in Group II: Group-I: P. Masticatory apparatus in Echinoidea Q. Triangular cavity near umbo of Brachiopoda R. Calcareous secretions in siphuncle of Cephalopoda S. Genital plate in Echinoidea Group-II: 1. Cameral deposits 2. Madreporite 3. Deltihyrum 4. Aristotle's lantern",
+      "options": [
+          "P-3, Q-4, R-1, S-2",
+          "P-4, Q-3, R-1, S-2",
+          "P-3, Q-4, R-2, S-1",
+          "P-4, Q-2, R-3, S-1"
+      ],
+      "answer": "P-4, Q-3, R-1, S-2"
+    },
+    {
+      "question": "Which one of the following flora represents Upper Gondwana?",
+      "options": [
+          "Noeggerathiopsis",
+          "Gangamopteris",
+          "Dicroidium",
+          "Vertebraria"
+      ],
+      "answer": "Dicroidium"
+    },
+    {
+      "question": "Which one of the following is a Primate fossil?",
+      "options": [
+          "Hipparion",
+          "Ramapithecus",
+          "Equus",
+          "Stegolophodon"
+      ],
+      "answer": "Ramapithecus"
+    }
+  ],
+  "2013": [
+    {
+      "question": "Which one of the following morphological features is ABSENT in the Class Pelecypoda?",
+      "options": [
+          "Umbo",
+          "Deltidium",
+          "Pallial sinus",
+          "Resilifier"
+      ],
+      "answer": "Deltidium"
+    }
+  ],
+  "2014": [
+    {
+      "question": "Match the genera in Group-I with the phyla in Group-II: Group-I: P. Mya Q. Micraster R. Olenoides S. Leptaena Group-II: 1. Echinodermata 2. Mollusca 3. Brachiopoda 4. Arthropoda",
+      "options": [
+          "P-3, Q-4, R-1, S-2",
+          "P-2, Q-1, R-3, S-4",
+          "P-2, Q-4, R-1, S-3",
+          "P-2, Q-1, R-4, S-3"
+      ],
+      "answer": "P-2, Q-1, R-4, S-3"
+    },
+    {
+      "question": "Which one of the following flora is a conifer?",
+      "options": [
+          "Glossopteris",
+          "Gangamopteris",
+          "Buriadia",
+          "Schizoneura"
+      ],
+      "answer": "Buriadia"
+    },
+    {
+        "question": "Which one of the following belongs to the Equidae family?",
+        "options": [
+            "Stegodon",
+            "Stegolophodon",
+            "Ramapithecus",
+            "Gigantopithecus"
+        ],
+        "answer": "None of the options belong to Equidae"
+    }
+  ],
+  "2015": [
+    {
+      "question": "Which of the following group of fossils became extinct at the Permo-Triassic boundary?",
+      "options": [
+          "Graptolite",
+          "Trilobite",
+          "Ammonite",
+          "Ediacaran"
+      ],
+      "answer": "Trilobite"
+    },
+    {
+        "question": "Match the Lamellibranchia genera in Group-I with their dentition pattern in Group-II.\nGroup-I: (i) Glycimeris, (ii) Trigonia, (iii) Lucina, (iv) Mytilus\nGroup-II: (P) Schizodont, (Q) Taxodont, (R) Dysodont, (S) Heterodont",
+        "options": [
+            "(i) - Q, (ii) - P, (iii) - S, (iv) - R",
+            "(i) - P, (ii) - Q, (iii) - R, (iv) - S",
+            "(i) - Q, (ii) - P, (iii) - R, (iv) - S",
+            "(i) - S, (ii) - R, (iii) - Q, (iv) - P"
+        ],
+        "answer": "(i) - Q, (ii) - P, (iii) - R, (iv) - S"
+    },
+    {
+      "question": "Which of the following Brachiopod genera is considered as 'living fossil'?",
+      "options": [
+          "Lingula",
+          "Productus",
+          "Atrypa",
+          "Spirifer"
+      ],
+      "answer": "Lingula"
+    },
+    {
+        "question": "Which of the following fossil genera is/are invertebrate? (Multiple Select Question)",
+        "options": [
+            "Megalodon",
+            "Spondylus",
+            "Stegodon",
+            "Telemastodon"
+        ],
+        "answer": [ "Megalodon" , "Spondylus"]
+    },
+    {
+        "question": "Which of the following trilobites have two to four thoracic segments and are eyeless? (Multiple Select Question)",
+        "options": [
+            "Agnostus",
+            "Olenellus",
+            "Calymene",
+            "Microdiscus"
+        ],
+        "answer": ["Agnostus", "Microdiscus"]
+    }
+  ],
+  "2016": [
+    {
+      "question": "Which one of the following is an upper Gondwana flora?",
+      "options": [
+          "Ptilophyllum",
+          "Phyllotheca",
+          "Glossopteris",
+          "Schizoneura"
+      ],
+      "answer": "Ptilophyllum"
+    },
+    {
+      "question": "Match features mentioned in Group I with the fossil types in Group II:\n\nGroup I:\ni. Escutcheon\nii. Plastron\niii. Delthyrium\niv. Siphuncle\n\nGroup II:\nP. Brachiopoda\nQ. Nautiloidea\nR. Echinoidea\nS. Bivalvia",
+      "options": [
+          "i-S, ii-R, iii-Q, iv-P",
+          "i-S, ii-R, iii-P, iv-Q",
+          "i-S, ii-P, iii-Q, iv-R",
+          "i-R, ii-Q, iii-P, iv-S"
+      ],
+      "answer": "i-S, ii-R, iii-P, iv-Q"
+  },
+  {
+      "question": "Choose the burrowing form(s) of bivalve. (Multiple Select Question)",
+      "options": [
+          "Mya",
+          "Teredo",
+          "Pecten",
+          "Venus"
+      ],
+      "answer": ["Mya", "Venus"]
+  }
+  ],
+  "2017": [
+    {
+      "question": "In which one of the following mass extinction periods trilobites became extinct?",
+      "options": [
+          "Devonian",
+          "Permian",
+          "Triassic",
+          "Cretaceous"
+      ],
+      "answer": "Permian"
+    },
+    {
+        "question": "Choose the correct combination(s) of type of dentition of Bivalvia and the corresponding representative genus. (Multiple Select Question)",
+        "options": [
+            "Taxodont-Nuculus",
+            "Isodont-Spondylus",
+            "Pachydont-Hippurites",
+            "Desmodont-Mya"
+        ],
+        "answer": ["Taxodont-Nuculus","Isodont-Spondylus","Pachydont-Hippurites" , "Desmodont-Mya"]
+    },
+    {
+      "question": "A hellically coiled ammonite Turrilites is differentiated from externally resembling Gastropoda Turritela by:",
+      "options": [
+          "apical angle",
+          "number of whorls",
+          "direction of coiling",
+          "chambered shell"
+      ],
+      "answer": "chambered shell"
+    },
+    {
+      "question": "The facial suture of trilobites running through the genal angle is known as:",
+      "options": [
+          "proparian",
+          "marginal",
+          "gonatoparian",
+          "opisthoparian"
+      ],
+      "answer": "gonatoparian"
+    },
+    {
+      "question": "The tubefeet in echinoids emerge through:",
+      "options": [
+          "interambulacral plates",
+          "ambulacral plates",
+          "bourrelets",
+          "plastron"
+      ],
+      "answer": "ambulacral plates"
+    }
+  ],
+  "2018": [
+    {
+      "question": "The type of dentition found in Trigonia is:",
+      "options": [
+          "schizodont",
+          "taxodont",
+          "pachydont",
+          "isodont"
+      ],
+      "answer": "schizodont"
+    },
+    {
+        "question": "The correct order of marine benthic habitats with increasing water depths is:",
+        "options": [
+            "abyssal, bathyal, neritic",
+            "neritic, abyssal, bathyal",
+            "neritic, bathyal, abyssal",
+            "bathyal, abyssal, neritic"
+        ],
+        "answer": "neritic, bathyal, abyssal"
+    },
+    {
+        "question": "Which one of the following invertebrates has the most primitive visual system?",
+        "options": [
+            "Ammonites",
+            "Brachiopods",
+            "Gastropods",
+            "Trilobites"
+        ],
+        "answer": "Trilobites"
+    },
+    {
+      "question": "Identify the correct morphological features corresponding to numbers I – IV in the echinoid illustrated below:",
+      "options": [
+          "I-Periproct, II-Ambulacra, III-Interambulacra, IV-Peristome",
+          "I-Periproct, II-Interambulacra, III-Ambulacra, IV-Peristome",
+          "I-Peristome, II-Interambulacra, III-Ambulacra, IV-Periproct",
+          "I-Peristome, II-Ambulacra, III-Interambulacra, IV-Periproct"
+      ],
+      "answer": "I-Periproct, II-Ambulacra, III-Interambulacra, IV-Peristome"
+    },
+    {
+        "question": "Match the morphological features/life processes in Group I with corresponding organisms in Group II: Group I: P. Water vascular system Q. Moulting R. Jet propulsion locomotion S. Lophophore Group II: 1. Cephalopoda 2. Echinodermata 3. Brachiopoda 4. Trilobita",
+        "options": [
+            "P-2, Q-3, R-1, S-4",
+            "P-3, Q-4, R-2, S-1",
+            "P-2, Q-4, R-1, S-3",
+            "P-4, Q-3, R-2, S-1"
+        ],
+        "answer": "P-2, Q-4, R-1, S-3"
+    },
+    {
+        "question": "Hermatypic corals are typically found in:\n(Multiple Select Question)",
+        "options": [
+            "the photic zone",
+            "warm and clear water",
+            "cool deep water",
+            "reefs"
+        ],
+        "answer": ["the photic zone", "warm and clear water", "reefs"]
+    },
+    {
+      "question": "Major mass extinction events occured in the (Multiple Select Question)",
+      "options": [
+          "end Silurian",
+          "end Carboniferous",
+          "end Permian",
+          "eraly Deyonian"
+      ],
+      "answer": "end Permian"
+    }
+  ],
+  "2019": [
+    {
+      "question": "Fossils of burrows and footprints are known as:",
+      "options": [
+          "pseudofossils",
+          "coprolites",
+          "body fossils",
+          "trace fossils"
+      ],
+      "answer": "trace fossils"
+    },
+    {
+        "question": "Which of the following is/are mode(s) of preservation of fossils? (Multiple Select Question)",
+        "options": [
+            "Small organisms get trapped on viscous resins secreted by trees",
+            "Leaves preserved as thin films of carbon",
+            "Negative impressions of hard parts of organisms",
+            "Mineral growths that branch like ferns"
+        ],
+        "answer": ["Small organisms get trapped on viscous resins secreted by trees", "Leaves preserved as thin films of carbon", "Negative impressions of hard parts of organisms"]
+    },
+    {
+      "question": "Match the bivalves in Group I with their modes of life in Group II:\n\nGroup I:\nP. Gryphaea\nQ. Mya\nR. Mytilus\nS. Pecten\n\nGroup II:\n1. Swimming\n2. Unattached, free-lying\n3. Burrowing\n4. Sessile byssate",
+      "options": [
+          "P-4, Q-1, R-2, S-3",
+          "P-4, Q-3, R-2, S-1",
+          "P-2, Q-3, R-4, S-1",
+          "P-2, Q-1, R-4, S-3"
+      ],
+      "answer": "P-2, Q-3, R-4, S-1"
+    },
+    {
+        "question": "Which of the following changes occurred during the evolution of Equidae?",
+        "options": [
+            "Number of lateral digits or toes increases",
+            "Decrease in hypsodonty",
+            "lengthening of skull in front of the orbit",
+            "Limb ratios remained constant"
+        ],
+        "answer": "lengthening of skull in front of the orbit"
+    },
+    {
+      "question": "Which of the following gastropods has/have siphonal canal?",
+      "options": [
+          "Cerithium",
+          "Cypraea",
+          "Fusus",
+          "Murex"
+      ],
+      "answer": [ "Cerithium", "Cypraea", "Fusus", "Murex"]
+    }
+  ],
+  "2020": [
+    {
+      "question": "Choose the correct pair(s): (Multiple Select Question)",
+      "options": [
+          "Proterozoic – Origin of flowering plants",
+          "Paleozoic – Origin of amphibians",
+          "Mesozoic – Acme of trilobites",
+          "Cenozoic – Dominance of mammals"
+      ],
+      "answer": ["Paleozoic – Origin of amphibians", "Cenozoic – Dominance of mammals"]
+    },
+    {
+      "question": "Which of the following pairs is NOT correctly matched?",
+      "options": [
+          "Productus - Brachiopoda",
+          "Redlichia - Arthropoda",
+          "Belemnites - Cephalopoda",
+          "Gryphea - Gastropoda"
+      ],
+      "answer": "Gryphea - Gastropoda"
+    }
+  ],
+  "2021": [],
+  "2022": [],
+  "2023": [],
+  "2024": [],
+  "2025": []
+}
