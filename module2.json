@@ -1,0 +1,434 @@
+{
+  "2005": [
+    {
+      "question": "Varves are typical products of:",
+      "options": [
+        "floodplains",
+        "periglacial lakes",
+        "coastal lagoons",
+        "coal basins"
+      ],
+      "answer": "periglacial lakes"
+    },
+    {
+      "question": "Among the following the glacial landform is:",
+      "options": [
+        "hanging valley",
+        "bajada",
+        "monadnock",
+        "blind valley"
+      ],
+      "answer": "hanging valley"
+    },
+    {
+      "question": "A river that maintains its course by valley deepening during uplift is termed:",
+      "options": [
+        "subsequent",
+        "insequent",
+        "consequent",
+        "antecedent"
+      ],
+      "answer": "antecedent"
+    }
+  ],
+  "2006": [
+    {
+      "question": "Match the following:Group I: P. Braid bars Q. Moraines R. Barchans S. Atoll Group II: 1. Wind 2. Riverine 3. Marine 4. Glacial",
+      "options": [
+          "P-1, Q-2, R-3, S-4",
+          "P-2, Q-4, R-1, S-3",
+          "P-4, Q-2, R-3, S-1",
+          "P-3, Q-4, R-1, S-2"
+      ],
+      "answer": "P-2, Q-4, R-1, S-3"
+    },
+    {
+        "question": "Mesas are common in the:",
+        "options": [
+            "Eastern Ghats granulite belt",
+            "Himalayan mountain range",
+            "Deccan Traps",
+            "Dharwar greenstone belt"
+        ],
+        "answer": "Dharwar greenstone belt"
+    }
+  ],
+  "2007": [
+    {
+      "question": "Barchans are crescent-shaped dunes in which the ends of the crescent:",
+      "options": [
+        "point in the upwind direction",
+        "are at right angles to the wind direction",
+        "have no relation to the wind direction",
+        "point in the downwind direction"
+      ],
+      "answer": "point in the downwind direction"
+    },
+    {
+      "question": "A geomorphic feature produced at divergent plate boundary is:",
+      "options": [
+        "folded mountain belt",
+        "guyot",
+        "island arc",
+        "oceanic ridge"
+      ],
+      "answer": "oceanic ridge"
+    },
+    {
+      "question": "A graded stream is characterized by:",
+      "options": [
+          "increase in erosion relative to deposition",
+          "increase in deposition relative to erosion",
+          "equilibrium between erosion and deposition",
+          "formation of graded bedding"
+      ],
+      "answer": "equilibrium between erosion and deposition"
+    },
+    {
+        "question": "Match the following landforms (Group I) with the corresponding geological agents (Group II): Group I: P. Point Bar Q. Cirque R. Yardang S. Berm Group II: 1. Sea 2. River 3. Glacier 4. Wind",
+        "options": [
+            "P-2, Q-3, R-4, S-1",
+            "P-3, Q-1, R-4, S-2",
+            "P-2, Q-1, R-3, S-4",
+            "P-3, Q-2, R-1, S-4"
+        ],
+        "answer": "P-2, Q-3, R-4, S-1"
+    }
+  ],
+  "2008": [
+    {
+      "question": "Dripstone found rising up from the floor of a limestone cave is known as : ",
+      "options": [
+        "Stalactite",
+        "Stalagmite",
+        "Uvala",
+        "Poljes"
+      ],
+      "answer": "Stalagmite"
+    },
+    {
+      "question": "Which one of the following drainage patterns is observed in a massiv granitic terrain?",
+      "options": [
+        "Trellis",
+        "Concorted",
+        "Dendritic",
+        "Annular"
+      ],
+      "answer": "Dendritic"
+    }
+  ],
+  "2009": [
+    {
+      "question": "The raised area adjacent to a stream channel that is produced by frequent flooding and overbank deposition is:",
+      "options": [
+        "Crevasse",
+        "Point bar",
+        "Levee",
+        "Oxbow lake"
+      ],
+      "answer": "Levee"
+    },
+    {
+      "question": "Which of the following is a product of aeolian processes?",
+      "options": [
+        "Point bar",
+        "Tillite",
+        "Calcrete",
+        "Loess"
+      ],
+      "answer": "Loess"
+    }
+  ],
+  "2010": [
+    {
+      "question": "Circular reefs enclosing shallow body of water are called:",
+      "options": [
+        "Barrier reefs",
+        "Fringing reefs",
+        "Spits",
+        "Atolls"
+      ],
+      "answer": "Atolls"
+    },
+    {
+      "question": "Wind-facetted pebbles are known as: ",
+      "options": [
+        "Lag-gravel",
+        "Blowouts",
+        "Yardangs",
+        "Ventifacts"
+      ],
+      "answer": "Ventifacts"
+    }
+  ],
+  "2011": [
+    {
+      "question": "Glaciers are downward moving bodies of:",
+      "options": [
+        "Only snow",
+        "Mostly ice and some snow at the top",
+        "Mostly snow and some ice at the top",
+        "Snow and ice in alternate layers"
+      ],
+      "answer": "Mostly ice and some snow at the top"
+    },
+    {
+      "question": "Which of the following landforms is NOT the result of strike-slip faulting?",
+      "options": [
+        "Stream deflection",
+        "River terrace",
+        "Pressure ridge",
+        "Sag pond"
+      ],
+      "answer": "River terrace"
+    },
+    {
+      "question": "Hanging valley is developed when rate of glacial erosion:",
+      "options": [
+        "Is greater in the main valley as compared to the side valley",
+        "Is greater in the side valley as compared to the main valley",
+        "Is the same in both the main valley and the side valley",
+        "Has no effect on either the main valley or the side valley"
+      ],
+      "answer": "Is greater in the main valley as compared to the side valley"
+    },
+    {
+      "question": "Match the geomorphic features in Group I with its corresponding details in Group II. Group I:P. Tombol Q. Bajada R. Erratic S. Rejuvenated valley Group II: 1. Lowering of sea level 2. Sand ridge connecting islands 3. Coalescence of alluvial fans 4. Rock fragment carried by glacier",
+      "options": [
+        "P-2, Q-4, R-1, S-3",
+        "P-2, Q-4, R-3, S-1",
+        "P-2, Q-3, R-4, S-1",
+        "P-4, Q-3, R-2, S-1"
+      ],
+      "answer": "P-2, Q-3, R-4, S-1"
+    }
+  ],
+  "2012": [
+    {
+      "question": "Match the landforms in Group-I with the causative processes in Group-II. Group-I: Yardang, Drumlin, Doline, Chenier. Group-II: Aeolian, Coastal, Dissolution, Glacial.",
+      "options": [
+        "P-1, Q-2, R-3, S-4",
+        "P-1, Q-4, R-3, S-2",
+        "P-4, Q-3, R-1, S-2",
+        "P-4, Q-3, R-2, S-1"
+      ],
+      "answer": "P-1, Q-4, R-3, S-2"
+    },
+    {
+      "question": "Which one of the following drainage patterns is typical of a doubly plunging antiformal terrain?",
+      "options": [
+        "Dendritic",
+        "Trellis",
+        "Rectangular",
+        "Radial"
+      ],
+      "answer": "Radial"
+    },
+    {
+      "question": "Which one of the following features is NOT associated with an oceanic subduction?",
+      "options": [
+        "Sea-mount",
+        "Benioff zone",
+        "Back-arc",
+        "Fore-arc"
+      ],
+      "answer": "Sea-mount"
+    }
+  ],
+  "2013": [
+    {
+      "question": "Which one of the following is a glacio-fluvial deposit?",
+      "options": [
+        "Esker",
+        "Till",
+        "Moraine",
+        "Drumlin"
+      ],
+      "answer": "A"
+    }
+  ],
+  "2014": [
+    {
+      "question": "In what type of country rock do sink-holes develop?",
+      "options": [
+        "Phyllite",
+        "Gneiss",
+        "Limestone",
+        "Sandstone"
+      ],
+      "answer": "Limestone"
+    },
+    {
+      "question": "Match the landforms in Group-I with the causative processes in Group-II. Group-I: Strath, Drumlins, Cirque, Point bar.Group-II: Glacial deposition, Glacial erosion, Fluvial deposition, Fluvial erosion.",
+      "options": [
+        "P-4, Q-1, R-2, S-3",
+        "P-3, Q-1, R-2, S-4",
+        "P-4, Q-2, R-1, S-3",
+        "P-1, Q-2, R-3, S-4"
+      ],
+      "answer": "P-4, Q-1, R-2, S-3"
+    }
+  ],
+  "2015": [
+    {
+      "question": "Size of a kettle lake depends upon:",
+      "options": [
+        "Size of the sediment carried by the glacier",
+        "Width of the glacier valley",
+        "Height of the valley through which the glacier moves",
+        "Size of the buried ice block within moraines"
+      ],
+      "answer": "Size of the buried ice block within moraines"
+    },
+    {
+      "question": "Drainage density of a basin is defined as:",
+      "options": [
+        "Sum of the number of streams of all orders divided by the area of the basin",
+        "Total length of streams of all orders divided by the area of the basin",
+        "Total number of the highest order streams divided by the total number of the next lower order streams",
+        "Length of the largest stream divided by the area of the basin"
+      ],
+      "answer": "Total length of streams of all orders divided by the area of the basin"
+    }
+  ],
+  "2016": [
+    {
+      "question": "The correct order of increasing stability of minerals during chemical weathering is:",
+      "options": [
+        "olivine, pyroxene, biotite, quartz",
+        "olivine, biotite, pyroxene, quartz",
+        "quartz, biotite, pyroxene, olivine",
+        "pyroxene, olivine, biotite, quartz"
+      ],
+      "answer": "olivine, pyroxene, biotite, quartz"
+    },
+    {
+      "question": "The number of 4th order stream(s) present in the drainage network shown below, as per hierarchical classification, is:",
+      "options": [
+        "one",
+        "two",
+        "three",
+        "four"
+      ],
+      "answer": "one"
+    },
+    {
+      "question": "Which among the following statements related to headward erosion by a river is/are correct? (Multiple Select Question)",
+      "options": [
+        "Length of tributaries increases",
+        "Length of the main channel increases",
+        "Streams get captured",
+        "Channel gradient increases upstream"
+      ],
+      "answer": ["Length of the main channel increases" , "Streams get captured" , "Channel gradient increases upstream"]
+    }
+  ],
+  "2017": [
+    {
+      "question": "Choose the landform(s) resulting from glacial erosion. (Multiple Select Question)",
+      "options": [
+        "Fjords",
+        "Moraines",
+        "Drumlins",
+        "Cirques"
+      ],
+      "answer": ["Fjords" , "Cirques"]
+    },
+    {
+      "question": "A drainage basin of fourth order covers an area of 40 sq. km. Within the basin, total length of 1st order drainage is 12.5 km, 2nd order drainage is 8.8 km, 3rd order drainage is 4.7 km and 4th order drainage is 4.0 km. The drainage density of the basin is ______ km⁻¹ (give answer in two decimal places).",
+      "options": [],
+      "answer": "0.75"
+    }
+  ],
+  "2018": [
+    {
+      "question": "Match the processes in Group I (P. Dissolution, Q. Abrasion, R. Deposition, S. Onion skin weathering) with corresponding geomorphic features in Group II (1. Mushroom rocks, 2. Exfoliation domes, 3. Sinkholes, 4. Moraines).",
+      "options": [
+        "P-1, Q-3, R-2, S-4",
+        "P-3, Q-1, R-2, S-4",
+        "P-3, Q-1, R-4, S-2",
+        "P-2, Q-1, R-4, S-3"
+      ],
+      "answer": "P-3, Q-1, R-4, S-2"
+    }
+  ],
+  "2019": [
+    {
+      "question": "Which of the following is associated with a divergent plate boundary?",
+      "options": [
+        "Ridge",
+        "Trench",
+        "Island arc",
+        "Accretionary prism"
+      ],
+      "answer": "Ridge"
+    },
+    {
+      "question": "Match the geomorphic features in Group I (P. Eskers, Q. Natural levee, R. Chenier ridge, S. Plug dome) with corresponding environments in Group II (1. Beach, 2. Volcanic, 3. Glacial, 4. Fluvial).",
+      "options": [
+        "P-3, Q-4, R-1, S-2",
+        "P-3, Q-1, R-4, S-2",
+        "P-2, Q-1, R-4, S-3",
+        "P-2, Q-4, R-1, S-3"
+      ],
+      "answer": "P-3, Q-4, R-1, S-2"
+    },
+    {
+      "question": "Which of the following geomorphic features indicate(s) the presence of a fault? (Multiple Select Question)",
+      "options": [
+        "Triangular facets",
+        "Sudden topographic jump",
+        "Ox-bow lake",
+        "Point bar"
+      ],
+      "answer": ["Triangular facets","Sudden topographic jump"]
+    }
+  ],
+  "2020": [
+    {
+      "question": "A trench is found at a:",
+      "options": [
+        "divergent plate boundary",
+        "convergent plate boundary",
+        "transform boundary",
+        "passive margin"
+      ],
+      "answer": "convergent plate boundary"
+    },
+    {
+      "question": "Atoll is a geomorphic feature formed by:",
+      "options": [
+        "glacial erosion",
+        "wind flow abrasion",
+        "fluvial deposition",
+        "coral reef accumulation"
+      ],
+      "answer": "coral reef accumulation"
+    },
+    {
+      "question": "Match the landform in Group I with the corresponding geological process in Group II. Group I P. Cinder Cone Q. Ox-bow lake R. Draas S. Drumlin Group II 1. Eolian 2. Glacial 3. Volcanic 4. Fluvial",
+      "options": [
+        "P-3, Q-4, R-1, S-2",
+        "P-4, Q-2, R-1, S-3",
+        "P-2, Q-4, R-3, S-1",
+        "P-3, Q-2, R-4, S-1"
+      ],
+      "answer": "P-3, Q-4, R-1, S-2"
+    },
+    {
+      "question": "Which of the following is/are correctly matched? (Multiple Select Question)",
+      "options": [
+        "Dendritic drainage pattern - uniform substrate and gentle slope",
+        "Trellis drainage pattern - parallel valleys and ridges",
+        "Radial drainage pattern - uniform flat topography",
+        "Rectangular drainage pattern - joints and faults"
+      ],
+      "answer": ["Dendritic drainage pattern - uniform substrate and gentle slope" , "Trellis drainage pattern - parallel valleys and ridges" , "Rectangular drainage pattern - joints and faults"]
+    }
+  ],
+  "2021": [],
+  "2022": [],
+  "2023": [],
+  "2024": [],
+  "2025": []
+}
