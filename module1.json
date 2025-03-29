@@ -3,12 +3,12 @@
     {
       "question": "The amplitude of seismic waves in an earthquake of magnitude 2 on the Richter scale is larger than that of an earthquake of magnitude 1 by",
       "options": [
-          "100 times",
-          "10 times",
-          "2 times",
-          "1000 times"
+        "100 times",
+        "10 times",
+        "2 times",
+        "1000 times"
       ],
-      "answer": "A"
+      "answer": "10 times"
     },
     {
       "question": "The lithosphere of the earth is made up of:",
@@ -18,7 +18,7 @@
         "crust and part of the upper mantle",
         "upper mantle"
       ],
-      "answer": "C"
+      "answer": "crust and part of the upper mantle"
     },
     {
       "question": "The explored part of the Moon consists dominantly of:",
@@ -28,7 +28,7 @@
         "basalts and granites",
         "basalts and andesites"
       ],
-      "answer": "A"
+      "answer": "basalts and anorthosites"
     },
     {
       "question": "Reversal of magnetic polarity in strips of ocean floor basalt parallel to ridge axis, results due to:",
@@ -38,17 +38,17 @@
         "transform faults",
         "alteration of seafloor basalt"
       ],
-      "answer": "B"
+      "answer": "seafloor spreading"
     }
-],
+  ],
   "2006": [
     {
       "question": "The upper mantle of the Earth is composed largely of",
       "options": [
-          "Peridotite",
-          "Gabbro",
-          "Mafic granulite",
-          "Eclogite"
+        "Peridotite",
+        "Gabbro",
+        "Mafic granulite",
+        "Eclogite"
       ],
       "answer": "A"
     },
@@ -60,7 +60,7 @@
         "8 km",
         "16 km"
       ],
-      "answer": "B"
+      "answer": "2 km"
     },
     {
       "question": "The method applied for isotope dating of the Holocene rocks involves:",
@@ -70,31 +70,31 @@
         "U – Pb",
         "Rb - Sr"
       ],
-      "answer": "B"
+      "answer": "C¹⁴"
     }
-],
+  ],
   "2007": [
     {
       "question": "Isostasy involves",
       "options": [
-          "Eustatic change",
-          "Gravitational balance",
-          "Magnetic reversal",
-          "Thermal balance"
+        "Eustatic change",
+        "Gravitational balance",
+        "Magnetic reversal",
+        "Thermal balance"
       ],
-      "answer": "B"
+      "answer": "Gravitational balance"
     }
-],
+  ],
   "2008": [
     {
       "question": "Asteroids are minor planetary bodies located between:",
       "options": [
-          "Mars and Jupiter",
-          "Jupiter and Saturn",
-          "Earth and Mars",
-          "Mercury and Venus"
+        "Mars and Jupiter",
+        "Jupiter and Saturn",
+        "Earth and Mars",
+        "Mercury and Venus"
       ],
-      "answer": "C"
+      "answer": "Mars and Jupiter"
     },
     {
       "question": "Match the tectonic units listed in Group I with their geographical locations in Group II:\nGroup I\nP. Continent - oceanic lithosphere convergence\nQ. Continent - continent collision\nR. Continental Rift system\nS. Oceanic - oceanic lithosphere convergence\nGroup II\n1. Himalayas\n2. Andes\n3. Japanese Islands\n4. East Africa",
@@ -104,7 +104,7 @@
         "P-3, Q-4, R-1, S-2",
         "P-4, Q-1, R-2, S-3"
       ],
-      "answer": "A"
+      "answer": "P-2, Q-1, R-4, S-3"
     },
     {
       "question": "Gutenberg Discontinuity in the interior of the Earth occurs at the depth of:",
@@ -114,7 +114,7 @@
         "2900 km",
         "5200 km"
       ],
-      "answer": "C"
+      "answer": "2900 km"
     }
   ],
   "2009": [],
@@ -122,24 +122,24 @@
     {
       "question": "Which one of the following options correctly represents the elements in order of decreasing abundance in the Earth's crust?",
       "options": [
-          "Fe > Si > O > Al",
-          "O > Si > Al > Fe",
-          "Si > O > Al > Fe",
-          "Al < Si > Fe > O"
+        "Fe > Si > O > Al",
+        "O > Si > Al > Fe",
+        "Si > O > Al > Fe",
+        "Al < Si > Fe > O"
       ],
-      "answer": "B"
+      "answer": "O > Si > Al > Fe"
     },
     {
       "question": "Asteroids are minor planetary bodies located between:",
       "options": [
-          "Mars and Jupiter",
-          "Jupiter and Saturn",
-          "Earth and Mars",
-          "Mercury and Venus"
+        "Mars and Jupiter",
+        "Jupiter and Saturn",
+        "Earth and Mars",
+        "Mercury and Venus"
       ],
-      "answer": "C"
+      "answer": "Mars and Jupiter"
     }
-],
+  ],
   "2011": [
     {
       "question": "The mean density of Earth is about:",
@@ -149,7 +149,7 @@
         "4400 kg/m³",
         "5500 kg/m³"
       ],
-      "answer": "D"
+      "answer": "5500 kg/m³"
     },
     {
       "question": "Match the scale in Group I with corresponding parameter in Group II:\nGroup I\nP. Richter scale\nQ. Mercalli scale\nR. Mohs scale\nS. Udden-Wentworth scale\nGroup II\n1. Earthquake damage\n2. Hardness\n3. Particle size\n4. Earthquake magnitude",
@@ -159,30 +159,30 @@
         "P-3, Q-4, R-2, S-1",
         "P-4, Q-3, R-2, S-1"
       ],
-      "answer": "B"
+      "answer": "P-4, Q-1, R-2, S-3"
     }
   ],
   "2012": [
-      {
-        "question": "The term isostasy refers to",
-        "options": [
-            "Gravitational equilibrium",
-            "Thermal equilibrium",
-            "Magnetic equilibrium",
-            "Electrical equilibrium"
-        ],
-        "answer": "A"
-      },
-      {
-        "question": "Decay of which one of the following isotopes can be used for dating Archean rocks?",
-        "options": [
-            "¹⁴C",
-            "¹⁰Be",
-            "¹⁴⁷Sm",
-            "²³⁸Pb"
-        ],
-        "answer": "A"
-      }
+    {
+      "question": "The term isostasy refers to",
+      "options": [
+        "Gravitational equilibrium",
+        "Thermal equilibrium",
+        "Magnetic equilibrium",
+        "Electrical equilibrium"
+      ],
+      "answer": "Gravitational equilibrium"
+    },
+    {
+      "question": "Decay of which one of the following isotopes can be used for dating Archean rocks?",
+      "options": [
+        "¹⁴C",
+        "¹⁰Be",
+        "¹⁴⁷Sm",
+        "²³⁸Pb"
+      ],
+      "answer": "¹⁴⁷Sm"
+    }
   ],
   "2013": [
     {
@@ -193,108 +193,108 @@
         "185-200 million years",
         "60-65 million years"
       ],
-      "answer": "C"
+      "answer": "185-200 million years"
     }
-],
+  ],
   "2014": [
-      {
-        "question": "The Gutenberg discontinuity lies between",
-        "options": [
-            "Crust and Mantle",
-            "Lithosphere and asthenosphere",
-            "Outer core and lower mantle",
-            "Inner core and outer core"
-        ],
-        "answer": "C"
-      },
-      {
-        "question": "Airy's model of isostasy",
-        "options": [
-          "requires mountains to have higher density than the oceanic crust",
-          "requires mountains to have lower density than the oceanic crust",
-          "requires mountains to have the same density as oceanic crust",
-          "does NOT consider the densities of mountain and oceanic crust"
-        ],
-        "answer": "C"
-      }
+    {
+      "question": "The Gutenberg discontinuity lies between",
+      "options": [
+        "Crust and Mantle",
+        "Lithosphere and asthenosphere",
+        "Outer core and lower mantle",
+        "Inner core and outer core"
+      ],
+      "answer": "Outer core and lower mantle"
+    },
+    {
+      "question": "Airy's model of isostasy",
+      "options": [
+        "requires mountains to have higher density than the oceanic crust",
+        "requires mountains to have lower density than the oceanic crust",
+        "requires mountains to have the same density as oceanic crust",
+        "does NOT consider the densities of mountain and oceanic crust"
+      ],
+      "answer": "requires mountains to have the same density as oceanic crust"
+    }
   ],
   "2015": [
-      {
-          "question": "S-wave is terminated at:",
-          "options": [
-              "Crust-Mantle boundary",
-              "Lithosphere-Asthenosphere boundary",
-              "Mantle-Core boundary",
-              "Inner and Outer core boundary"
-          ],
-          "answer": "C"
-      },
-      {
-        "question": "A radioactive isotope has 1024 atoms. How many atoms will remain after 4 half-lives?",
-        "options": [],
-        "answer": ""
-      },
-      {
-        "question": "Which amongst the following planets has the highest number of known satellites?",
-        "options": [
-            "Mars",
-            "Uranus",
-            "Venus",
-            "Mercury"
-        ],
-        "answer": "B"
-      },
-      {
-        "question": "Arrange the elements Fe, O, H, He, Si in decreasing order of their abundance in the solar system.",
-        "options": [
-            "H > He > O > Si > Fe",
-            "He > H > Si > O > Fe",
-            "H > He > O > Fe > Si",
-            "Si > Fe > H > He > O"
-        ],
-        "answer": "A"
-      },
-      {
-        "question": "Waste water discharged from a coal mine has hydrogen ion [H+] concentration of 10-6 moles/liter. The pH of the water is ------",
-        "options": [
-            "",
-            "",
-            "",
-            ""
-        ],
-        "answer": "6"
+    {
+      "question": "S-wave is terminated at:",
+      "options": [
+        "Crust-Mantle boundary",
+        "Lithosphere-Asthenosphere boundary",
+        "Mantle-Core boundary",
+        "Inner and Outer core boundary"
+      ],
+      "answer": "Mantle-Core boundary"
+    },
+    {
+      "question": "A radioactive isotope has 1024 atoms. How many atoms will remain after 4 half-lives?",
+      "options": [],
+      "answer": ""
+    },
+    {
+      "question": "Which amongst the following planets has the highest number of known satellites?",
+      "options": [
+        "Mars",
+        "Uranus",
+        "Venus",
+        "Mercury"
+      ],
+      "answer": "Uranus"
+    },
+    {
+      "question": "Arrange the elements Fe, O, H, He, Si in decreasing order of their abundance in the solar system.",
+      "options": [
+        "H > He > O > Si > Fe",
+        "He > H > Si > O > Fe",
+        "H > He > O > Fe > Si",
+        "Si > Fe > H > He > O"
+      ],
+      "answer": "H > He > O > Si > Fe"
+    },
+    {
+      "question": "Waste water discharged from a coal mine has hydrogen ion [H+] concentration of 10-6 moles/liter. The pH of the water is ------",
+      "options": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": "6"
     }
   ],
   "2016": [
-      {
-        "question": "The most abundant metal (by weight %) in the Earth's crust is",
-        "options": [
-            "Al",
-            "Fe",
-            "Na",
-            "Mg"
-        ],
-        "answer": "A"
+    {
+      "question": "The most abundant metal (by weight %) in the Earth's crust is",
+      "options": [
+        "Al",
+        "Fe",
+        "Na",
+        "Mg"
+      ],
+      "answer": "Al"
     },
     {
-        "question": "The amplitude of ground motion during an  earthquake of magnitude 7 in Richter scale is how  many times more than that of a magnitude 5?",
-        "options": [
-            "10",
-            "100",
-            "1000",
-            "10000"
-        ],
-        "answer": "B"
+      "question": "The amplitude of ground motion during an  earthquake of magnitude 7 in Richter scale is how  many times more than that of a magnitude 5?",
+      "options": [
+        "10",
+        "100",
+        "1000",
+        "10000"
+      ],
+      "answer": "100"
     },
     {
-        "question": "Which is the most abundant ion in the normal seawater?",
-        "options": [
-            "Cl⁻",
-            "SO₄²⁻",
-            "Na⁺",
-            "K⁺"
-        ],
-        "answer": "A"
+      "question": "Which is the most abundant ion in the normal seawater?",
+      "options": [
+        "Cl⁻",
+        "SO₄²⁻",
+        "Na⁺",
+        "K⁺"
+      ],
+      "answer": "Cl⁻"
     },
     {
       "question": "The failed arm of a continental rift is called",
@@ -304,7 +304,7 @@
         "Decollement",
         "Aulacogen"
       ],
-      "answer": "D"
+      "answer": "Aulacogen"
     },
     {
       "question": "A schematic diagram of a divergent plate boundary, with arrows indicating directions of plate movement, is given below. Which one of the following statements is NOT true for points P, Q, R, and S, if the spreading rate for both plates is uniform and same through time and space?",
@@ -314,7 +314,7 @@
         "The age of rocks at Q is 0 Ma.",
         "The age of the rocks decreases progressively from P to S."
       ],
-      "answer": "D"
+      "answer": "The age of the rocks decreases progressively from P to S."
     },
     {
       "question": "The value of gravity at the Earth’s surface is dependent on: (Multiple Select Question)",
@@ -324,7 +324,12 @@
         "Composition of underlying material",
         "Relative position of Sun-Earth"
       ],
-      "answer": ["A" , "B" , "C" , "D"]
+      "answer": [
+        "Latitude",
+        "Altitude",
+        "Composition of underlying material",
+        "Relative position of Sun-Earth"
+      ]
     },
     {
       "question": "The half-life of a radionuclide A is double that of a radionuclide B. The fraction of A remaining when B is reduced to 1/64 is",
@@ -348,239 +353,249 @@
     }
   ],
   "2017": [
-      {
-          "question": "Conservative plate boundary is represented by",
-          "options": [
-              "Normal fault",
-              "Growth fault",
-              "Transform fault",
-              "Reverse fault"
-          ],
-          "answer": "C"
-      },
-      {
-        "question": "Match the Earth layers (Group I) with corresponding approximate thicknesses (Group II) Group I P. Lithosphere Q. Mantle R. Outer Core S. Inner Core Group II 1. 2900 km 2. 2250 km 3. 1200 km 4. 100 km",
-        "options": [
-            "P-4, Q-1, R-2, S-3",
-            "P-4, Q-1, R-3, S-2",
-            "P-4, Q-3, R-1, S-2",
-            "P-3, Q-2, R-1, S-4"
-        ],
-        "answer": "A"
-      },
-      {
-          "question": "Pressure (1 GPa = 10 kbar) and temperature at the center of the Earth are estimated to be",
-          "options": [
-              "360 GPa, 2600 K",
-              "450 GPa, 6000 K",
-              "360 GPa, 6000 K",
-              "450 GPa, 2600 K"
-          ],
-          "answer": "C"
-      },
-      {
-          "question": "The Toposheet No(s). immediately adjacent to Toposheet No. 55J/8 is/are: (Multiple Select Question",
-          "options": [
-              "55K/2",
-              "55J/12",
-              "55J/6",
-              "55K/5"
-          ],
-          "answer": ["B","D"]
-      },
-      {
-        "question": "P and S waves originate at earthquake focus and travel through the earth. Which of the following statements for these waves is/are correct? (Multiple Select Question)",
-        "options": [
-          "S-wave shadow zone is 154° wide",
-          "P-wave shadow zones are 49° wide",
-          "P-wave velocity abruptly increases downward at mantle-core boundary",
-          "P-wave velocity abruptly drops downward at mantle-core boundary"
-        ],
-        "answer": ["A","D"]
-      },
-      {
-        "question": "Age of granitic rocks can be determined using Rb-Sr whole rock radioactive dating method and the following age equation, (⁸⁷Sr/⁸⁶Sr) = (⁸⁷Sr/⁸⁶Sr)₀ + (⁸⁷Rb/⁸⁶Sr) (eʳᵗ - 1). For a suite of representative co-magmatic granitic rocks, the Rb-Sr whole rock isochron plot and relevant data are shown in the diagram. The age of granite is calculated at ____ Ga (1 Ga = 10⁹ yrs, give answer in one decimal place).",
-        "options": [
-          "",
-          "",
-          "",
-          ""
-        ],
-        "answer": "1.0"
-      }
+    {
+      "question": "Conservative plate boundary is represented by",
+      "options": [
+        "Normal fault",
+        "Growth fault",
+        "Transform fault",
+        "Reverse fault"
+      ],
+      "answer": "Transform fault"
+    },
+    {
+      "question": "Match the Earth layers (Group I) with corresponding approximate thicknesses (Group II) Group I P. Lithosphere Q. Mantle R. Outer Core S. Inner Core Group II 1. 2900 km 2. 2250 km 3. 1200 km 4. 100 km",
+      "options": [
+        "P-4, Q-1, R-2, S-3",
+        "P-4, Q-1, R-3, S-2",
+        "P-4, Q-3, R-1, S-2",
+        "P-3, Q-2, R-1, S-4"
+      ],
+      "answer": "P-4, Q-1, R-2, S-3"
+    },
+    {
+      "question": "Pressure (1 GPa = 10 kbar) and temperature at the center of the Earth are estimated to be",
+      "options": [
+        "360 GPa, 2600 K",
+        "450 GPa, 6000 K",
+        "360 GPa, 6000 K",
+        "450 GPa, 2600 K"
+      ],
+      "answer": "360 GPa, 6000 K"
+    },
+    {
+      "question": "The Toposheet No(s). immediately adjacent to Toposheet No. 55J/8 is/are: (Multiple Select Question",
+      "options": [
+        "55K/2",
+        "55J/12",
+        "55J/6",
+        "55K/5"
+      ],
+      "answer": [
+        "55J/12",
+        "55K/5"
+      ]
+    },
+    {
+      "question": "P and S waves originate at earthquake focus and travel through the earth. Which of the following statements for these waves is/are correct? (Multiple Select Question)",
+      "options": [
+        "S-wave shadow zone is 154° wide",
+        "P-wave shadow zones are 49° wide",
+        "P-wave velocity abruptly increases downward at mantle-core boundary",
+        "P-wave velocity abruptly drops downward at mantle-core boundary"
+      ],
+      "answer": [
+        "S-wave shadow zone is 154° wide",
+        "P-wave velocity abruptly drops downward at mantle-core boundary"
+      ]
+    },
+    {
+      "question": "Age of granitic rocks can be determined using Rb-Sr whole rock radioactive dating method and the following age equation, (⁸⁷Sr/⁸⁶Sr) = (⁸⁷Sr/⁸⁶Sr)₀ + (⁸⁷Rb/⁸⁶Sr) (eʳᵗ - 1). For a suite of representative co-magmatic granitic rocks, the Rb-Sr whole rock isochron plot and relevant data are shown in the diagram. The age of granite is calculated at ____ Ga (1 Ga = 10⁹ yrs, give answer in one decimal place).",
+      "options": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": "1.0"
+    }
   ],
   "2018": [
-      {
-          "question": "which one among the following planets in the Solar system is most similar in size to the Earth?",
-          "options": [
-            "Mercury",
-            "Venus",
-            "Neptune",
-            "Uranus"
-          ],
-          "answer": "B"
-      }
-      ,{
-          "question": "In which one of the following tectonic settings are the highest mountain chains and thickest crust found?",
-          "options": [
-            "Island arc" ,
-            "Continental arc",
-            "Continental collision",
-            "Transcurrent"
-          ],
-          "answer": "C"
-      },
-      {
-          "question": "The second-most abundant oxide in the Earth's  crust is",
-          "options": [
-              "Al₂O₃",
-              "SiO₂",
-              "CaO",
-              "Na₂O"
-          ],
-          "answer": "A"
-      },
-      {
-        "question": "Isostasy involves continental mountain belts",
-        "options": [
-            "Compensation in",
-            "Creation of",
-            "Destruction of",
-            "Thrusting in"
-        ],
-        "answer": "A"
-      },
-      {
-        "question": "Wilson orogenic cycle in continents is initiated by",
-        "options": [
-          "collision",
-          "rifting",
-          "drifting",
-          "subduction"
-        ],
-        "answer": "B"
-      },
-      {
-        "question": "The number of alpha (α) particles emitted to produce a daughter isotope of ²⁰⁶Pb from a parent isotope of ²³⁸U by radioactive decay is ____.",
-        "options": [
-          "",
-          "",
-          "",
-          ""
-        ],
-        "answer": "8"
-      },
-      {
-        "question": "Assuming the Earth to be an ideal sphere, the volume % of the core relative to the total volume of the Earth is -----",
-        "options": [
-          "",
-          "",
-          "",
-          ""
-        ],
-        "answer": "16.2"
-      }
+    {
+      "question": "which one among the following planets in the Solar system is most similar in size to the Earth?",
+      "options": [
+        "Mercury",
+        "Venus",
+        "Neptune",
+        "Uranus"
+      ],
+      "answer": "Venus"
+    },
+    {
+      "question": "In which one of the following tectonic settings are the highest mountain chains and thickest crust found?",
+      "options": [
+        "Island arc",
+        "Continental arc",
+        "Continental collision",
+        "Transcurrent"
+      ],
+      "answer": "Continental collision"
+    },
+    {
+      "question": "The second-most abundant oxide in the Earth's  crust is",
+      "options": [
+        "Al₂O₃",
+        "SiO₂",
+        "CaO",
+        "Na₂O"
+      ],
+      "answer": "Al₂O₃"
+    },
+    {
+      "question": "Isostasy involves continental mountain belts",
+      "options": [
+        "Compensation in",
+        "Creation of",
+        "Destruction of",
+        "Thrusting in"
+      ],
+      "answer": "Compensation in"
+    },
+    {
+      "question": "Wilson orogenic cycle in continents is initiated by",
+      "options": [
+        "collision",
+        "rifting",
+        "drifting",
+        "subduction"
+      ],
+      "answer": "rifting"
+    },
+    {
+      "question": "The number of alpha (α) particles emitted to produce a daughter isotope of ²⁰⁶Pb from a parent isotope of ²³⁸U by radioactive decay is ____.",
+      "options": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": "8"
+    },
+    {
+      "question": "Assuming the Earth to be an ideal sphere, the volume % of the core relative to the total volume of the Earth is -----",
+      "options": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": "16.2"
+    }
   ],
   "2019": [
-      {
-          "question": "Shear waves do not travel through the",
-          "options": [
-              "Upper continental crust",
-              "Upper mantle",
-              "Lower mantle",
-              "Outer core"
-          ],
-          "answer": "D"
-      },
-      {
-        "question": "The intensity of an earthquake of magnitude 8 on the Richer scale is greater than the intesity of an earthquake of magnitude 5 on the same scale by ---- times",
-        "options": [
-            "",
-            "",
-            "",
-            ""
-        ],
-        "answer": "1000"
-      },
-      {
-        "question": "Which of the following statement(s) is/are correct for a plot of (87Sr/86Sr) versus (87Rb/86Sr) of a rock which has evolved in a closed system?",
-        "options": [
-          "The slopes of the lines of evolution for the minerals in the rock are all equal and positive",
-          "The slopes of the lines of evolution for the minerals in the rock are all equal and negative",
-          "The slope of the isochron is identical in direction to the slope of the lines of evolution for the minerals in the rock",
-          "The slope of the isochron is opposite in direction to the slope of the lines of evolution for the minerals in the rock"
-        ],
-        "answer": "B,D"
-      },
-      {
-        "question": "In the given diagram, a 6 km high plateau is supported by a crustal root of thickness r. The system is in isostatic equilibrium as per Airy's hypothesis of isostasy. Densities of the crust and the mantle are 2800 kg/m³ and 3100 kg/m³, respectively. Assuming the acceleration due to gravity to be same throughout the region, the thickness of the root (r) is __________ km.",
-        "options": [
-          "",
-          "",
-          "",
-          ""
-        ],
-        "answer": "56"
-      },
-      {
-        "question": "Assume that the orbit of the earth is a circle of radius 150×10⁶ km. The gravitational constant and the earth’s orbital velocity are given as 6.7×10⁻¹¹ Nm²/kg² and 30×10³ m/s, respectively. The calculated mass of the sun is ______×10³⁰ kg (rounded off to two decimal places).",
-        "options": [
-          "",
-          "",
-          "",
-          ""
-        ],
-        "answer": "2.01"
-      }
-
+    {
+      "question": "Shear waves do not travel through the",
+      "options": [
+        "Upper continental crust",
+        "Upper mantle",
+        "Lower mantle",
+        "Outer core"
+      ],
+      "answer": "Outer core"
+    },
+    {
+      "question": "The intensity of an earthquake of magnitude 8 on the Richer scale is greater than the intesity of an earthquake of magnitude 5 on the same scale by ---- times",
+      "options": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": "1000"
+    },
+    {
+      "question": "Which of the following statement(s) is/are correct for a plot of (87Sr/86Sr) versus (87Rb/86Sr) of a rock which has evolved in a closed system?",
+      "options": [
+        "The slopes of the lines of evolution for the minerals in the rock are all equal and positive",
+        "The slopes of the lines of evolution for the minerals in the rock are all equal and negative",
+        "The slope of the isochron is identical in direction to the slope of the lines of evolution for the minerals in the rock",
+        "The slope of the isochron is opposite in direction to the slope of the lines of evolution for the minerals in the rock"
+      ],
+      "answer": [
+        "The slopes of the lines of evolution for the minerals in the rock are all equal and negative",
+        "The slope of the isochron is opposite in direction to the slope of the lines of evolution for the minerals in the rock"
+      ]
+    },
+    {
+      "question": "In the given diagram, a 6 km high plateau is supported by a crustal root of thickness r. The system is in isostatic equilibrium as per Airy's hypothesis of isostasy. Densities of the crust and the mantle are 2800 kg/m³ and 3100 kg/m³, respectively. Assuming the acceleration due to gravity to be same throughout the region, the thickness of the root (r) is __________ km.",
+      "options": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": "56"
+    },
+    {
+      "question": "Assume that the orbit of the earth is a circle of radius 150×10⁶ km. The gravitational constant and the earth’s orbital velocity are given as 6.7×10⁻¹¹ Nm²/kg² and 30×10³ m/s, respectively. The calculated mass of the sun is ______×10³⁰ kg (rounded off to two decimal places).",
+      "options": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": "2.01"
+    }
   ],
   "2020": [
-      {
-          "question": "Approximately 71% of the planetary mass in the solar system is concentrated in",
-          "options": [
-              "Uranus",
-              "Mercury",
-              "Saturn",
-              "Jupiter"
-          ],
-          "answer": "D"
-      },
-      {
-          "question": "The most abundant element in the Earth's continental crust is",
-          "options": [
-              "Silicon",
-              "Aluminium",
-              "Oxygen",
-              "Iron"
-          ],
-          "answer": "C"
-      },
-      {
-          "question": "Match the seismic discontinuity in Group I with their occurrence in Earth's interior in Group II. Group I P. Conrad Q. Mohorovicic R. Gutenberg S. Lehmann Group II  1. Between lower mantle  and outer core 2. Between crust and upper  mantle 3. Between inner and outer core 4. Between lower and upper crust",
-          "options": [
-              "P-4, Q-2, R-1, S-3",
-              "P-4, Q-2, R-3, S-1",
-              "P-3, Q-2, R-4, S-1",
-              "P-2, Q-4, R-1, S-3"
-          ],
-          "answer": "A"
-      },
-      {
-        "question": "Which of the following statements in relation to the solar system is/are correct? (Multiple Select Question)",
-        "options": [
-            "The most abundant elements are H and He.",
-            "The abundances of elements with atomic numbers 1–50 show an overall decreasing trend.",
-            "The abundances of heavier elements (atomic number > 50) are mostly higher than that of lighter elements (atomic number < 50).",
-            "Elements having odd atomic numbers are less abundant than those with even atomic numbers."
-        ],
-        "answer": "A,B"
-      },
-      {
-        "question": "In an occean basin, A Ma old oceanic crust lies 40 km away from the ridge axis. The average velocity (in cm/yr) of the oceanic lithosphere is ---",
-        "options": [
-            ],
-        "answer": "1"
-      }
+    {
+      "question": "Approximately 71% of the planetary mass in the solar system is concentrated in",
+      "options": [
+        "Uranus",
+        "Mercury",
+        "Saturn",
+        "Jupiter"
+      ],
+      "answer": "Jupiter"
+    },
+    {
+      "question": "The most abundant element in the Earth's continental crust is",
+      "options": [
+        "Silicon",
+        "Aluminium",
+        "Oxygen",
+        "Iron"
+      ],
+      "answer": "Oxygen"
+    },
+    {
+      "question": "Match the seismic discontinuity in Group I with their occurrence in Earth's interior in Group II. Group I P. Conrad Q. Mohorovicic R. Gutenberg S. Lehmann Group II  1. Between lower mantle  and outer core 2. Between crust and upper  mantle 3. Between inner and outer core 4. Between lower and upper crust",
+      "options": [
+        "P-4, Q-2, R-1, S-3",
+        "P-4, Q-2, R-3, S-1",
+        "P-3, Q-2, R-4, S-1",
+        "P-2, Q-4, R-1, S-3"
+      ],
+      "answer": "P-4, Q-2, R-1, S-3"
+    },
+    {
+      "question": "Which of the following statements in relation to the solar system is/are correct? (Multiple Select Question)",
+      "options": [
+        "The most abundant elements are H and He.",
+        "The abundances of elements with atomic numbers 1–50 show an overall decreasing trend.",
+        "The abundances of heavier elements (atomic number > 50) are mostly higher than that of lighter elements (atomic number < 50).",
+        "Elements having odd atomic numbers are less abundant than those with even atomic numbers."
+      ],
+      "answer": [
+        "The most abundant elements are H and He.",
+        "The abundances of elements with atomic numbers 1–50 show an overall decreasing trend."
+      ]
+    },
+    {
+      "question": "In an occean basin, A Ma old oceanic crust lies 40 km away from the ridge axis. The average velocity (in cm/yr) of the oceanic lithosphere is ---",
+      "options": [],
+      "answer": "1"
+    }
   ],
   "2021": [],
   "2022": [],
