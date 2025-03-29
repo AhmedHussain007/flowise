@@ -1,0 +1,389 @@
+{
+  "2005": [
+    {
+      "question": "A metamorphic rock has garnet and omphacite. The metamorphic facies of the rock is:",
+      "options": [
+        "greenschist",
+        "granulite",
+        "amphibolite",
+        "eclogite"
+      ],
+      "answer": "eclogite"
+    }
+  ],
+  "2006": [
+    {
+      "question": "The orthopyroxene - clinopyroxene - plagioclase mineral assemblage in metabasics rocks is diagnostic of:",
+      "options": [
+        "granulite facies",
+        "amphibolite facies",
+        "eclogite facies",
+        "greenschist facies"
+      ],
+      "answer": "granulite facies"
+    }
+  ],
+  "2007": [
+    {
+      "question": "The pressure-temperature ranges of the metamorphic facies increase in the order:\nP: Granulite, Q: Zeolite, R: Amphibolite, S: Greenschist",
+      "options": [
+        "Q < R < S < P",
+        "Q < P < R < S",
+        "Q < S < R < P",
+        "Q < R < P < S"
+      ],
+      "answer": "Q < S < R < P"
+    },
+    {
+      "question": "Staurolite, andalusite and sillimanite form during progressive regional metamorphism of:",
+      "options": [
+        "arenaceous rocks",
+        "siliceuos carbonate rocks",
+        "basic igneous rocks",
+        "argillaceous rocks"
+      ],
+      "answer": "argillaceous rocks"
+    }
+  ],
+  "2008": [
+    {
+      "question": "The glaucophane and lawsonite mineral assemblage is diagnostic of:",
+      "options": [
+        "eclogite facies",
+        "amphibolite facies",
+        "blueschist facies",
+        "greenschist facies"
+      ],
+      "answer": "blueschist facies"
+    }
+  ],
+  "2009": [
+    {
+      "question": "An igneous rock contains SiO₂, Al₂O₃, Na₂O, K₂O, FeO, MnO, CaO, and MgO. Assuming that the degree of freedom is 2, the number of minerals present in the rock is:",
+      "options": [
+        "4",
+        "8",
+        "10",
+        "1"
+      ],
+      "answer": "8"
+    },
+    {
+      "question": "Which one of the following assemblages is characteristic of the eclogite facies?",
+      "options": [
+        "Hornblende + plagioclase + staurolite",
+        "Orthopyroxene + clinopyroxene + plagioclase (no staurolite, no muscovite)",
+        "Omphacite + garnet (no plagioclase)",
+        "Actinolite + chlorite + epidote + albite"
+      ],
+      "answer": "Omphacite + garnet (no plagioclase)"
+    }
+  ],
+  "2010": [
+    {
+      "question": "The mineral assemblage which DOES NOT correctly define a metamorphic facies is:",
+      "options": [
+        "Albite + Epidote + Actinolite + Chlorite",
+        "Hornblende + Plagioclase + Ilmenite",
+        "Omphacite + Garnet + Plagioclase",
+        "Orthopyroxene + Clinopyroxene + Plagioclase + Hornblende"
+      ],
+      "answer": "Omphacite + Garnet + Plagioclase"
+    },
+    {
+      "question": "A pillowed metablast containing the mineral assemblage glaucophane + lawsonite + epidote + chlorite indicates:",
+      "options": [
+        "Ocean floor metamorphism",
+        "Continent-continent collision metamorphism",
+        "Contact metamorphism",
+        "Subduction-zone metamorphism"
+      ],
+      "answer": "Subduction-zone metamorphism"
+    }
+  ],
+  "2011": [
+    {
+      "question": "Which of the given minerals is a product of reaction between siliceous magmatic fluid and limestone?",
+      "options": [
+        "andalusite",
+        "fayalite",
+        "muscovite",
+        "wollastonite"
+      ],
+      "answer": "wollastonite"
+    },
+    {
+      "question": "Determine the correctness or otherwise of the following Assertion [a] and Reason [r]. Assertion: Blueschist can form in the subduction zone. Reason: Geothermal gradient in the subduction zone is low compared to that in stable cratons.",
+      "options": [
+        "Both [a] and [r] are true and [r] is the correct reason for [a]",
+        "Both [a] and [r] are true but [r] is NOT the correct reason for [a]",
+        "Both [a] and [r] are false",
+        "[a] is true but [r] is false"
+      ],
+      "answer": "Both [a] and [r] are true and [r] is the correct reason for [a]"
+    }
+  ],
+  "2012": [
+    {
+      "question": "The metamorphic facies series that best characterizes a subduction-zone tectonic setting is:",
+      "options": [
+        "Prehnite-Pumpellyite → Blueschist → Eclogite",
+        "Albite-Epidote hornfels → Hornblende hornfels → Pyroxene hornfels → Sanidinite",
+        "Greenschist → Amphibolite → Granulite",
+        "Pyroxene hornfels → Granulite → Eclogite"
+      ],
+      "answer": "Prehnite-Pumpellyite → Blueschist → Eclogite"
+    },
+    {
+      "question": "A snowball garnet is an example of:",
+      "options": [
+        "Inter-kinematic mineral growth",
+        "Syn-kinematic mineral growth",
+        "Post-kinematic mineral growth",
+        "Pre-kinematic mineral growth"
+      ],
+      "answer": "Syn-kinematic mineral growth"
+    }
+  ],
+  "2013": [],
+  "2014": [
+    {
+      "question": "A mafic rock in the eclogite facies may contain the assemblage:",
+      "options": [
+        "chlorite-epidote-albite",
+        "garnet-clinopyroxene-hornblende-plagioclase",
+        "garnet-clinopyroxene",
+        "garnet-clinopyroxene-orthopyroxene-plagioclase"
+      ],
+      "answer": "garnet-clinopyroxene"
+    }
+  ],
+  "2015": [
+    {
+      "question": "Using the phase rule, the maximum number of phases in a 3 (three) component geological system having 1 (one) degree of freedom is ______.",
+      "options": [],
+      "answer": "4"
+    },
+    {
+      "question": "The lithostatic pressure in Mega Pascal (MPa) at a depth of 10 km in a granite batholith having density 2700 kg/m³ is ______. (Acceleration due to gravity = 9.8 m/s²)",
+      "options": [],
+      "answer": "264.6"
+    },
+    {
+      "question": "The mineral coesite is expected to be stable in which of the following metamorphic facies?",
+      "options": [
+        "greenschist",
+        "Bluechist",
+        "Eclogite",
+        "Granulite"
+      ],
+      "answer": "Eclogite"
+    },
+    {
+      "question": "A dolerite dyke metamorphosed under amphibolite facies condition is expected to have the mineral assemblage:",
+      "options": [
+        "Chlorite + Actinolite + Albite",
+        "Lawsonite + Glaucophane + Epidote",
+        "Orthopyroxene + Clinopyroxene + Plagioclase",
+        "Hornblende + Plagioclase"
+      ],
+      "answer": "Hornblende + Plagioclase"
+    }
+  ],
+  "2016": [
+    {
+      "question": "During metamorphism, temperature can increase at constant pressure in the case of:",
+      "options": [
+        "exhumation by erosion",
+        "burial by subduction",
+        "burial by underthrusting",
+        "intrusion of batholith"
+      ],
+      "answer": "intrusion of batholith"
+    },
+    {
+      "question": "Calcite, quartz, wollastonite and CO₂ fluid were present in equilibrium during the formation of a calc-silicate rock. In the chemical system CaO-SiO₂-CO₂, the degree of freedom of this assemblage is ______.",
+      "options": [],
+      "answer": "1"
+    },
+    {
+      "question": "Migmatite is a rock: (Multiple Select Question)",
+      "options": [
+        "in which mafic-rich parts are intermixed with pods or layers of granitic composition",
+        "with melanosome and leucosome",
+        "with a solid residue and partial melt",
+        "which forms at high grade metamorphic conditions"
+      ],
+      "answer": [
+        "in which mafic-rich parts are intermixed with pods or layers of granitic composition",
+        "with melanosome and leucosome",
+        "with a solid residue and partial melt",
+        "which forms at high grade metamorphic conditions"
+      ]
+    },
+    {
+      "question": "The temperature at the Earth's surface is 25°C. The temperature at the base of the Earth's crust (30 km thick), if the geothermal gradients are 25°C/km up to 15km depth and 15°C/km further down, is ______ °C.",
+      "options": [],
+      "answer": "625"
+    }
+  ],
+  "2017": [
+    {
+      "question": "The characteristic rock of contact metamorphism is:",
+      "options": [
+        "hornfels",
+        "blueschist",
+        "eclogite",
+        "granulite"
+      ],
+      "answer": "hornfels"
+    },
+    {
+      "question": "The progressive metamorphic isograd sequence that explains Barrovian metamorphism in pelite is:",
+      "options": [
+        "chlorite → staurolite → biotite → kyanite → sillimanite",
+        "chlorite → andalusite → cordierite → sillimanite",
+        "chlorite → biotite → garnet → staurolite → kyanite → sillimanite",
+        "sillimanite → kyanite → staurolite → garnet → biotite → chlorite"
+      ],
+      "answer": "chlorite → biotite → garnet → staurolite → kyanite → sillimanite"
+    },
+    {
+      "question": "In metabasite rocks, plagioclase is not stable in:",
+      "options": [
+        "granulite facies",
+        "epidote amphibolite facies",
+        "amphibolite facies",
+        "eclogite facies"
+      ],
+      "answer": "eclogite facies"
+    },
+    {
+      "question": "Consider a granulite facies metamorphic rock with peak metamorphic condition at 9 kbar, 850°C. Assume a single layer crust of ρ = 3000 kg/m³ and g = 10 m/sec² during metamorphism. The depth of burial during peak metamorphism is ______ km. 1 Pascal = 1 kg/m/sec² and 1 bar = 10⁵ Pascals.",
+      "options": [],
+      "answer": "30"
+    }
+  ],
+  "2018": [
+    {
+      "question": "Which one of the following is produced by a closed-system metamorphic reaction between muscovite and quartz?",
+      "options": [
+        "orthoclase + sillimanite",
+        "orthoclase + biotite",
+        "plagioclase + biotite",
+        "plagioclase + sillimanite"
+      ],
+      "answer": "plagioclase + sillimanite"
+    },
+    {
+      "question": "The assemblage staurolite + garnet + biotite + muscovite + quartz in pelites is stable in:",
+      "options": [
+        "greenschist facies",
+        "amphibolite facies",
+        "granulite facies",
+        "pyroxene hornfels facies"
+      ],
+      "answer": "amphibolite facies"
+    },
+    {
+      "question": "A crustal rock is at a lithostatic pressure of 3 kbar and a temperature of 275°C. If the lithostatic pressure increases at a uniform rate of 0.3 kbar/km, and the surface temperature is 25°C, the geothermal gradient (in °C/km) is ______ (answer in one decimal place).",
+      "options": [],
+      "answer": "25"
+    }
+  ],
+  "2019": [
+    {
+      "question": "Which of the following mineral assemblages characterizes blueschist facies metamorphism of a mafic rock?",
+      "options": [
+        "Glaucophane + lawsonite",
+        "Hornblende + plagioclase ± epidote ± garnet",
+        "Omphacite + garnet",
+        "Phengite + chlorite + garnet"
+      ],
+      "answer": "Glaucophane + lawsonite"
+    },
+    {
+      "question": "Select the correct statement(s).",
+      "options": [
+        "Phenocrysts are found in igneous rocks whereas porphyroblasts are found in metamorphic rocks",
+        "Phenocrysts are indicators of crystallization history whereas porphyroblasts indicate metamorphic history",
+        "Porphyroblasts are relict grains, relatively larger than matrix minerals in deformed igneous rocks",
+        "Poikiloblastic texture is found in igneous rocks whereas poikilitic texture is found in metamorphic rocks"
+      ],
+      "answer": [
+        "Phenocrysts are found in igneous rocks whereas porphyroblasts are found in metamorphic rocks",
+        "Phenocrysts are indicators of crystallization history whereas porphyroblasts indicate metamorphic history"
+      ]
+    },
+    {
+      "question": "Match the metamorphic rocks in Group I with corresponding parent rocks in Group II. P. Amphibolite Q. Khondalite R. Calc-gneiss S. Quartzite 1. Marl 2. Shale 3. Sandstone 4. Basalt",
+      "options": [
+        "P-4, Q-3, R-1, S-2",
+        "P-4, Q-2, R-1, S-3",
+        "P-2, Q-4, R-1, S-3",
+        "P-4, Q-3, R-2, S-1"
+      ],
+      "answer": ["P-4, Q-2, R-1, S-3"]
+    },
+    {
+      "question": "Choose the reaction(s) indicating metamorphism of pelites at T>600°C and P<8 kbar. (Multiple Select Question)",
+      "options": [
+        "albite + actinolite → hornblende + quartz",
+        "muscovite + quartz → sillimanite + K-feldspar + H₂O",
+        "muscovite + biotite + quartz + H₂O → sillimanite + melt",
+        "albite → jadeite + quartz"
+      ],
+      "answer": [
+        "muscovite + quartz → sillimanite + K-feldspar + H₂O",
+        "muscovite + biotite + quartz + H₂O → sillimanite + melt"
+      ]
+    },
+    {
+      "question": "Assume: (i) geothermal gradient = 25°C/km in the crust, (ii) density of the crustal rocks = 3000 kg/m³, and (iii) acceleration due to gravity = 10 m/s². Based on these values, the lithostatic pressure at a point where temperature is 400 °C will be ______ MPa.",
+      "options": [],
+      "answer": "480"
+    },
+    {
+      "question": "At a temperature of 298.15 Kelvin, the free energy change of a reaction (ΔG°) is 19.737 kCal/mole. If the universal gas constant (R) = 1.98717 Calorie/degree/mole, the log₁₀ of the equilibrium constant K is ______ (rounded off to two decimal places).",
+      "options": [],
+      "answer": "-14.46"
+    }
+  ],
+  "2020": [
+    {
+      "question": "The diagnostic amphibole in a blueschist facies metabasalt is:",
+      "options": [
+        "hornblende",
+        "anthophyllite",
+        "glaucophane",
+        "actinolite"
+      ],
+      "answer": "glaucophane"
+    },
+    {
+      "question": "According to the mineralogical phase rule, the number of minerals that can coexist at equilibrium in an 8 component chemical system with 2 degrees of freedom is:",
+      "options": [],
+      "answer": "8"
+    },
+    {
+      "question": "The metamorphic facies series that explains oceanic subduction zone metamorphism is:",
+      "options": [
+        "Prehnite-Pumpellyite → Blueschist → Eclogite",
+        "Greenschist → Epidote amphibolite → Amphibolite → Granulite",
+        "Albite-epidote hornfels → Hornblende hornfels → Pyroxene hornfels → Sanidinite",
+        "Greenschist → Amphibolite → Granulite → Eclogite"
+      ],
+      "answer": "Prehnite-Pumpellyite → Blueschist → Eclogite"
+    },
+    {
+      "question": "An eclogite consists of garnet (60%) and omphacite (40%), where the mineral abundances are in mole %. XMg [=Mg/(Mg+Fe²⁺)] of garnet and omphacite is 0.50 and 0.75, respectively. The XMg of eclogite is ______.",
+      "options": [],
+      "answer": "0.6"
+    }
+  ],
+  "2021": [],
+  "2022": [],
+  "2023": [],
+  "2024": [],
+  "2025": []
+}
