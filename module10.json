@@ -1,0 +1,675 @@
+{
+  "2005": [
+    {
+      "question": "Supergene sulfide enrichment occurs:",
+      "options": [
+        "Below the water table",
+        "Above the water table",
+        "At depths independent of water table",
+        "Both above and below the water table"
+      ],
+      "answer": "Below the water table"
+    },
+    {
+      "question": "A mineral has steel-grey colour, metallic lustre, two sets of perfect octahedral cleavage and very high specific gravity. The mineral is:",
+      "options": [
+        "Galena",
+        "Magnetite",
+        "Molybdenite",
+        "Barite"
+      ],
+      "answer": "Galena"
+    },
+    {
+      "question": "Of the following, pick the mineral that is not associated with pegmatites:",
+      "options": [
+        "Mica",
+        "Emerald",
+        "Feldspar",
+        "Kyanite"
+      ],
+      "answer": "Kyanite"
+    }
+  ],
+  "2006": [
+    {
+      "question": "Chromite deposits result from:",
+      "options": [
+        "Early magmatic dissemination",
+        "Early magmatic segregation",
+        "Early magmatic injection",
+        "Late magmatic residual fluid injection"
+      ],
+      "answer": "Early magmatic segregation"
+    },
+    {
+      "question": "The largest known kyanite deposit in the world is in:",
+      "options": [
+        "Jharkhand",
+        "Bihar",
+        "Assam",
+        "Tamil Nadu"
+      ],
+      "answer": "Jharkhand"
+    },
+    {
+      "question": "Match the following: Group I: P. Oil Q. Coal R. Lead - zinc S. Phosphate Group II: 1. Bokaro 2. Zawar 3. Jamar Kotra 4. Ankleshwar",
+      "options": [
+        "P-1, Q-3, R-2, S-4",
+        "P-2, Q-4, R-3, S-1",
+        "P-4, Q-1, R-3, S-2",
+        "P-4, Q-1, R-2, S-3"
+      ],
+      "answer": "P-4, Q-1, R-2, S-3"
+    }
+  ],
+  "2007": [
+    {
+      "question": "Which of the following processes of ore formation produces gold deposits in the form of reef?",
+      "options": [
+        "Hydrothermal",
+        "Magmatic injection",
+        "Magmatic segregation",
+        "Supergene enrichment"
+      ],
+      "answer": "Hydrothermal"
+    },
+    {
+      "question": "Beach placers in India are an important source of:",
+      "options": [
+        "Copper",
+        "Lead",
+        "Thorium",
+        "Uranium"
+      ],
+      "answer": "Thorium"
+    },
+    {
+      "question": "The reservoir rock for petroleum in Bombay High is:",
+      "options": [
+        "Feldspathic sandstone",
+        "Graywacke",
+        "Limestone",
+        "Orthoquartzite"
+      ],
+      "answer": "Limestone"
+    }
+  ],
+  "2008": [
+    {
+      "question": "A greyish brown coloured mineral of metallic lustre gives cherry red streak. The mineral is:",
+      "options": [
+        "Wolframite",
+        "Hematite",
+        "Chromite",
+        "Magnetite"
+      ],
+      "answer": "Hematite"
+    },
+    {
+      "question": "Hydrothermal deposits formed at a temperature range of 50° - 200° C are known as:",
+      "options": [
+        "Mesothermal",
+        "Hypothermal",
+        "Epithermal",
+        "Telethermal"
+      ],
+      "answer": "Epithermal"
+    },
+    {
+      "question": "The ascending ore-forming fluids within the earth's crust give rise to:",
+      "options": [
+        "Hypogene deposit",
+        "Supergene deposit",
+        "Syngenetic deposit",
+        "Stratiform deposit"
+      ],
+      "answer": "Hypogene deposit"
+    },
+    {
+      "question": "Match the coalfields listed in Group I with their occurrences in States listed in Group II. Group I: P. Talchir Q. Nayveli R. Singrauli S. Jhingurda Group II: 1. Uttar Pradesh 2. Orrissa 3. Tamil Nadu 4. Madhya Pradesh",
+      "options": [
+        "P-1, Q-2, R-3, S-4",
+        "P-2, Q-3, R-4, S-1",
+        "P-3, Q-4, R-1, S-2",
+        "P-4, Q-1, R-2, S-3"
+      ],
+      "answer": "P-2, Q-3, R-4, S-1"
+    },
+    {
+      "question": "Match the mineral deposits listed in Group I with their occurrences listed in Group II. Group I: P. Gold Q. Bauxite R. Lead-Zinc S. Diamond Group II: 1. Majhgawan 2. Zawarmala 3. Palamau 4. Hutti",
+      "options": [
+        "P-2, Q-1, R-3, S-4",
+        "P-4, Q-3, R-2, S-1",
+        "P-4, Q-1, R-2, S-3",
+        "P-1, Q-3, R-4, S-2"
+      ],
+      "answer": "P-4, Q-3, R-2, S-1"
+    }
+  ],
+  "2009": [
+    {
+      "question": "Which of the following is an ore mineral of uranium?",
+      "options": [
+        "Sphalerite",
+        "Pitchblende",
+        "Cassiterite",
+        "Wolframite"
+      ],
+      "answer": "Pitchblende"
+    },
+    {
+      "question": "Which one of the following minerals is characterized by black streak?",
+      "options": [
+        "Hematite",
+        "Sphalerite",
+        "Magnetite",
+        "Malachite"
+      ],
+      "answer": "Magnetite"
+    },
+    {
+      "question": "Tin and Tungsten mineralization is commonly associated with:",
+      "options": [
+        "Basalt",
+        "Gabbro",
+        "Dunite",
+        "Granite"
+      ],
+      "answer": "Granite"
+    }
+  ],
+  "2010": [
+    {
+      "question": "Which one of the following is an INCORRECT statement?",
+      "options": [
+        "Siderite is an iron ore of carbonate composition",
+        "Hematite is an iron ore with ferro-magnetic character",
+        "Limonite is a hydrated iron ore",
+        "Magnetite is an iron ore that crystallizes in an isometric system"
+      ],
+      "answer": "Hematite is an iron ore with ferro-magnetic character"
+    },
+    {
+      "question": "Commercial magnesite deposit can be hosted in:",
+      "options": [
+        "Serpentinite",
+        "Potassic Granite",
+        "Gabbro",
+        "Nepheline syenite"
+      ],
+      "answer": "Serpentinite"
+    },
+    {
+      "question": "Match the economic deposits in Group I with their corresponding occurrences in Group II. Group I: P. Lignite Q. Petroleum R. Copper S. Uranium Group II: 1. Jaduguda 2. Malanjkhand 3. Neyveli 4. Rudrasagar",
+      "options": [
+        "P-3, Q-4, R-1, S-2",
+        "P-2, Q-4, R-1, S-3",
+        "P-3, Q-4, R-2, S-1",
+        "P-4, Q-3, R-2, S-1"
+      ],
+      "answer": "P-3, Q-4, R-2, S-1"
+    },
+    {
+      "question": "A copper-nickel-sulphide ore deposit occurring in the basal part of a layered gabbro can originate by the following process:",
+      "options": [
+        "Early magmatic segregation",
+        "Late magmatic residual liquid segregation",
+        "Early magmatic injection",
+        "Late magmatic immiscible liquid segregation"
+      ],
+      "answer": "Late magmatic immiscible liquid segregation"
+    }
+  ],
+  "2011": [
+    {
+      "question": "Match the item in Group-I with appropriate item in Group-II. Group I: (P) Beach placers, (Q) Sulfide chimney, (R) Bauxite, (S) Phosphorite. Group II: (1) Submarine hydrothermal system, (2) Mechanical concentration, (3) Biogenic, (4) Residual Concentration",
+      "options": [
+        "P-4, Q-3, R-2, S-1",
+        "P-4, Q-1, R-3, S-2",
+        "P-2, Q-1, R-4, S-3",
+        "P-4, Q-2, R-3, S-1"
+      ],
+      "answer": "P-2, Q-1, R-4, S-3"
+    },
+    {
+      "question": "Choose the correct sequence of ore minerals arranged in the increasing order of hardness.",
+      "options": [
+        "Pyrite < Galena < Sphalerite < Magnetite",
+        "Galena < Sphalerite < Magnetite < Pyrite",
+        "Pyrite < Magnetite < Sphalerite < Galena",
+        "Galena < Sphalerite < Pyrite < Magnetite"
+      ],
+      "answer": "Galena < Sphalerite < Magnetite < Pyrite"
+    },
+    {
+      "question": "Which of the given mineral species of gold is rare to form in nature?",
+      "options": [
+        "Au-sulfide",
+        "Au-telluride",
+        "Native Au",
+        "Au-Ag alloy"
+      ],
+      "answer": "Au-sulfide"
+    }
+  ],
+  "2012": [
+    {
+      "question": "Match the economic deposits in Group I with their Indian occurrences in Group II. Group I: (P) Coal, (Q) Manganese, (R) Magnesite, (S) Mica. Group II: (1) Balaghat, (2) Koderma, (3) Talcher, (4) Salem",
+      "options": [
+        "P-4, Q-1, R-3, S-2",
+        "P-2, Q-1, R-4, S-3",
+        "P-4, Q-3, R-2, S-1",
+        "P-3, Q-1, R-4, S-2"
+      ],
+      "answer": "P-3, Q-1, R-4, S-2"
+    },
+    {
+      "question": "Extensive hydrothermal alteration is generally associated with:",
+      "options": [
+        "Stratiform chromite deposit",
+        "Quartz-pebble conglomerate-hosted gold deposit",
+        "Superior-type iron deposit",
+        "Porphyry copper deposit"
+      ],
+      "answer": "Porphyry copper deposit"
+    },
+    {
+      "question": "Geiger Muller counter is commonly used for the exploration of:",
+      "options": [
+        "Bauxite deposit",
+        "Pb-Zn deposit",
+        "Uranium deposit",
+        "Iron ore"
+      ],
+      "answer": "Uranium deposit"
+    }
+  ],
+  "2013": [
+    {
+      "question": "Malachite and Azurite are characteristic ore minerals of:",
+      "options": [
+        "Gossan zone",
+        "Zone of oxidation",
+        "Zone of supergene enrichment",
+        "Protore"
+      ],
+      "answer": "Zone of oxidation"
+    }
+  ],
+  "2014": [
+    {
+      "question": "Which of the following physical properties characterize galena?",
+      "options": [
+        "Prismatic form",
+        "Cherry red streak",
+        "Yellow colour",
+        "High specific gravity"
+      ],
+      "answer": "High specific gravity"
+    },
+    {
+      "question": "Among the following ores, of which is gossan a characteristic surface indicator?",
+      "options": [
+        "Pyrite-chalcopyrite",
+        "Chromite-magnetite",
+        "Pyrolusite-psilomelane",
+        "Columbite-tantalite"
+      ],
+      "answer": "Pyrite-chalcopyrite"
+    },
+    {
+      "question": "Match the mineral deposits in Group-I with the localities of their occurrences in Group-II. Group-I: (P) Lignite, (Q) Fluorite, (R) Chromite, (S) Sphalerite-Galena. Group-II: (1) Dariba, (2) Noamundi, (3) Panandhro, (4) Amba Dongar, (5) Naushahi",
+      "options": [
+        "P-2, Q-3, R-4, S-5",
+        "P-3, Q-4, R-5, S-1",
+        "P-3, Q-4, R-2, S-1",
+        "P-4, Q-5, R-1, S-2"
+      ],
+      "answer": "P-3, Q-4, R-5, S-1"
+    },
+    {
+      "question": "'Comb structure' with 'symmetrical banding' is formed by:",
+      "options": [
+        "Early magmatic process",
+        "Hydrothermal process",
+        "Chemical sedimentary process",
+        "Residual concentration process"
+      ],
+      "answer": "Hydrothermal process"
+    },
+    {
+      "question": "Match the items of Group-I with appropriate items in Group-II. Group-I: (P) Banded Iron Formation, (Q) Andesite porphyry, (R) Lamproite, (S) Pegmatite. Group-II: (1) Copper, (2) Diamond, (3) Rare metals, (4) Blue dust",
+      "options": [
+        "P-4, Q-1, R-2, S-3",
+        "P-3, Q-2, R-4, S-1",
+        "P-4, Q-3, R-1, S-2",
+        "P-4, Q-1, R-3, S-2"
+      ],
+      "answer": "P-4, Q-1, R-2, S-3"
+    }
+  ],
+  "2015": [
+    {
+      "question": "Identify the mineral which has specific gravity >5, hardness <3 and gives grey streak.",
+      "options": [
+        "Barite",
+        "Sphalerite",
+        "Graphite",
+        "Galena"
+      ],
+      "answer": "Galena"
+    },
+    {
+      "question": "Which of the following mineral deposit is formed exclusively by surface geological processes?",
+      "options": [
+        "Wollastonite",
+        "Asbestos",
+        "Corundum",
+        "Bauxite"
+      ],
+      "answer": "Bauxite"
+    },
+    {
+      "question": "Match the metals listed in Group-I with their ores in Group-II. Group-I (i) Tin (ii) Tungsten (iii) Copper (iv) Manganese Group -II (P) Scheelite (Q) Pyrolusite (R) Cassiterite (S) Borate",
+      "options": [
+        "(i) - R, (ii) - P, (iii) - S, (iv) - Q",
+        "(i) - Q, (ii) - P, (iii) - S, (iv) - R",
+        "(i) - R, (ii) - Q, (iii) - P, (iv) - S",
+        "(i) - P, (ii) - S, (iii) - R, (iv) - Q"
+      ],
+      "answer": "(i) - R, (ii) - P, (iii) - S, (iv) - Q"
+    },
+    {
+      "question": "A pyrite-chalcopyrite-bearing copper ore body has undergone supergene enrichment. Choose the correct statement(s). (Multiple Select Question)",
+      "options": [
+        "Limonite is present in the gossan zone",
+        "Cuprite is present in the zone of oxidation",
+        "Chalcocite is present in the zone of supergene enrichment",
+        "Malachite is present in the primary zone"
+      ],
+      "answer": [
+        "Limonite is present in the gossan zone",
+        "Cuprite is present in the zone of oxidation",
+        "Chalcocite is present in the zone of supergene enrichment"
+      ]
+    },
+    {
+      "question": "From the given equation, calculate how many moles of magnetite will be produced by the reduction of 1 (one) mole of hematite (answer to be given up to 3 decimal places).\n\n6Fe₂O₃ → 4Fe₃O₄ + O₂",
+      "options": [],
+      "answer": "0.667"
+    },
+    {
+      "question": "An ore body showing ‘saddle reef’ structure is formed by:",
+      "options": [
+        "Early magmatic crystallization process",
+        "Liquid immiscibility",
+        "Hydrothermal process",
+        "Metamorphic process"
+      ],
+      "answer": "Hydrothermal process"
+    },
+    {
+      "question": "Which of the following statements is/are correct? (Multiple Select Question)",
+      "options": [
+        "Rajpura-Dariba in Rajasthan is a working Pb-Zn deposit",
+        "Iron ore is mined in Noamundi, Odisha",
+        "The largest copper mine in India is located in Malanjkhand, Madhya Pradesh",
+        "Manganese deposit is found in the Mansar Formation, Maharashtra"
+      ],
+      "answer": ["Rajpura-Dariba in Rajasthan is a working Pb-Zn deposit", "The largest copper mine in India is located in Malanjkhand, Madhya Pradesh", "Manganese deposit is found in the Mansar Formation, Maharashtra"]
+    },
+    {
+      "question": "Petroleum producing basins of India belong to: (Multiple Select Question)",
+      "options": [
+        "Cambrian",
+        "Cretaceous",
+        "Tertiary",
+        "Quaternary"
+      ],
+      "answer": ["Cretaceous", "Tertiary"]
+    }
+  ],
+  "2016": [
+    {
+      "question": "The total metal content of a mineable 40m × 40m × 3m ore block having bulk density 2.75 g/cm³ and assay value 1.5 wt % Cu is _____ metric tonnes.",
+      "options": [],
+      "answer": "198"
+    },
+    {
+      "question": "Coking coal in India is found in",
+      "options": [
+        "Neyvelli, Tamil Nadu",
+        "Jharia, Jharkhand",
+        "Palana, Rajasthan",
+        "Garampani, Meghalya"
+      ],
+      "answer": "Jharia, Jharkhand"
+    },
+    {
+      "question": "Match the ore deposits in Group I with the localities in Group II. Group I: i) Copper, ii) Lead-Zinc, iii) Manganese, iv) Bauxite Group II: P) Balaghat, M.P., Q) Panchpatmali, Odisha, R) Rampura-Agucha, Rajasthan, S) Khetri, Rajasthan",
+      "options": [
+        "i-P, ii-S, iii-R, iv-Q",
+        "i-S, ii-R, iii-P, iv-Q",
+        "i-P, ii-R, iii-Q, iv-S",
+        "i-S, ii-Q, iii-R, iv-P"
+      ],
+      "answer": "i-S, ii-R, iii-P, iv-Q"
+    },
+    {
+      "question": "Which of the following ore deposit(s) is/are formed only by hydrothermal process? (Multiple Select Question)",
+      "options": [
+        "‘Sn-W’ ore associated with greisenised rock",
+        "Layered type chromite ore associated with dunite-peridotite-pyroxenite",
+        "Vein type gold ore associated with greenstone belt",
+        "Ni-Cu sulphide ore associated with gabbroic rocks"
+      ],
+      "answer": ["‘Sn-W’ ore associated with greisenised rock", "Vein type gold ore associated with greenstone belt"]
+    }
+  ],
+  "2017": [
+    {
+      "question": "Identify the correct match between mineral/ore and its physical property.",
+      "options": [
+        "Hematite - Yellow streak",
+        "Barite - High specific gravity",
+        "Psilomelane - Comb structure",
+        "Azurite - Distinctive green colour"
+      ],
+      "answer": "Barite - High specific gravity"
+    },
+    {
+      "question": "Match the mineral deposits in Group I with their Indian occurrences in Group II. Group I: P. Chromite, Q. Magnesite, R. Mica, S. Phosphorite Group II: 1. Jhamarkotra, Rajasthan, 2. Gudur, Andhra Pradesh, 3. Byrapur, Karnataka, 4. Chalk Hills, Tamil Nadu",
+      "options": [
+        "P-1, Q-4, R-3, S-2",
+        "P-3, Q-2, R-4, S-1",
+        "P-3, Q-4, R-2, S-1",
+        "P-2, Q-1, R-3, S-4"
+      ],
+      "answer": "P-3, Q-4, R-2, S-1"
+    },
+    {
+      "question": "A horizontal cylindrical ore body (diameter = 20 m, length = 200 m) has 5% metal content and density of 3500 kg/m³. The reserve of the ore body is _____ million ton(s) (give answer in two decimal places).",
+      "option" : [],
+      "answer": "0.22"
+    }
+  ],
+  "2018": [
+    {
+      "question": "Choose the characteristic mineral(s) formed in the supergene enriched zone of a sulphide deposit. (Multiple Select Question)",
+      "options": [
+        "Psilomelane",
+        "Covellite",
+        "Cassiterite",
+        "Chalcocite"
+      ],
+      "answer": ["Covellite", "Chalcocite"]
+    },
+    {
+      "question": "The valency of iron in hematite is _____.",
+      "options": [],
+      "answer": "3"
+    },
+    {
+      "question": "600 tons of low grade iron ore (40% Fe) are blended with 400 tons of high grade iron ore (65% Fe). The grade of the blended ore is _____ % Fe (answer in one decimal place).",
+      "options": [],
+      "answer": "50"
+    },
+    {
+      "question": "Petroleum is NOT commercially produced from:",
+      "options": [
+        "Krishna–Godavari basin",
+        "Cauvery–Palar basin",
+        "Cambay basin",
+        "Vindhyan basin"
+      ],
+      "answer" : "Vindhyan basin"
+    },
+    {
+      "question": "Match the mineral deposits in Group I with corresponding Indian occurrences in Group II. Group I: P. Iron Q. Uranium R. Manganese S. Baryte Group II: 1. Mangampet, Andhra Pradesh 2. Balaghat, Madhya Pradesh 3. Narwa Pahar, Jharkhand\n4. Hospet, Karnataka",
+      "options": [
+        "P-1, Q-3, R-4, S-2",
+        "P-4, Q-1, R-3, S-2",
+        "P-3, Q-4, R-2, S-1",
+        "P-4, Q-3, R-2, S-1"
+      ],
+      "answer" : "P-4, Q-3, R-2, S-1"
+    },
+    {
+      "question": "Which one of the following processes is responsible for the formation of syngenetic Ni-Cu sulphide ore in gabbro-noritic rocks?",
+      "options": [
+        "Hydrothermal replacement",
+        "Volcanic exhalation",
+        "Liquid immiscibility",
+        "Contact metamorphism"
+      ],
+      "answer":"Liquid immiscibility"
+    }
+  ],
+  "2019": [
+    {
+      "question": "An ore mineral has the following physical properties: (1) metallic lustre, (2) steel-grey color, (3) two sets of octahedral cleavage, (4) high specific gravity, and (5) makes mark on paper. Identify the ore mineral.",
+      "options": [
+        "Sphalerite",
+        "Magnetite",
+        "Galena",
+        "Bornite"
+      ],
+      "answer": "Galena"
+    },
+    {
+      "question": "Which of the following is the fundamental constituent of humic coal?",
+      "options": [
+        "Mineral matter",
+        "Macerals",
+        "Lithotype",
+        "Kerogen"
+      ],
+      "answer" : "Macerals"
+    },
+    {
+      "question": "Match the fuels in Group I with corresponding areas of occurrence in Group II. Group I: P. Uranium Q. Lignite R. Bituminous Coal S. Petroleum Group II: 1. Vastan, Gujarat 2. Singrauli, Madhya Pradesh 3. Digboi, Assam 4. Jaduguda, Jharkhand",
+      "options": [
+        "P-4, Q-1, R-3, S-2",
+        "P-4, Q-1, R-2, S-3",
+        "P-3, Q-4, R-2, S-1",
+        "P-2, Q-4, R-1, S-3"
+      ],
+      "answer" : "P-4, Q-1, R-2, S-3"
+    },
+    {
+      "question": "Which of the following are the characteristics of a typical porphyry copper deposit?",
+      "options": [
+        "I. Associated with granitic rocks",
+        "II. Low-grade and high tonnage of ore",
+        "III. Presence of alteration zones",
+        "IV. Occurrence in convergent tectonic setting"
+      ],
+      "answer": [
+        "III. Presence of alteration zones"
+      ]
+    },
+    {
+      "question": "Match the metal deposits in Group I with the corresponding processes in Group II. Group I: P. Aluminum Q. Iron R. Tungsten S. Thorium Group II: 1. Mechanical concentration 2. Contact metasomatism 3. Residual concentration A4. Chemical sedimentation",
+      "options": [
+        "P-1, Q-3, R-2, S-4",
+        "P-3, Q-4, R-2, S-1",
+        "P-3, Q-4, R-1, S-2",
+        "P-2, Q-3, R-4, S-1"
+      ],
+      "answer" : "P-3, Q-4, R-2, S-1"
+    },
+    {
+      "question": "A tabular ore body of 9 km² area and an average thickness of 9 m has a density of 3000 kg/m³. The tonnage (in million tonnes) of the ore body is ____.",
+      "optios": [],
+      "answer": "243"
+    }
+  ],
+  "2020": [
+    {
+      "question": "The correct pair of metal and the ore mineral is:",
+      "options": [
+        "Nickel - Sphalerite",
+        "Tin - Cassiterite",
+        "Zinc - Pyrolusite",
+        "Lead - Bornite"
+      ],
+      "answer": "Tin - Cassiterite"
+    },
+    {
+      "question": "The wt.% (correct to two decimal places) of Cu in chalcopyrite (CuFeS₂) (atomic weight of Cu=63.55, Fe=55.85, S=32.07) is _____.",
+      "options": [],
+      "answer": "34.62"
+    },
+    {
+      "question": "Randomly oriented ore-bearing veinlets in a mass of rock are known as:",
+      "options": [
+        "en echelon veins",
+        "sheeted veins",
+        "lode",
+        "stockworks"
+      ],
+      "answer": "stockworks"
+    },
+    {
+      "question": "Which of the following oil field is NOT located in the western part of India?",
+      "options": [
+        "Bombay High",
+        "Ankleshwar",
+        "Gandhar",
+        "Moran"
+      ],
+      "answer": "Moran"
+    },
+    {
+      "question": "Match the mineral/metal deposit in Group I with the corresponding Indian occurrence in Group II. Group I Diamond Iron Fluorite Copper Group II Malanjkhand Wajrakarur Dalli-Rajhara Ambadongar.",
+      "options": [
+        "P-4, Q-3, R-2, S-1",
+        "P-3, Q-4, R-1, S-2",
+        "P-2, Q-1, R-4, S-3",
+        "P-2, Q-3, R-4, S-1"
+      ],
+      "answer": "P-2, Q-3, R-4, S-1"
+    },
+    {
+      "question": "Choose the correct statement(s): (Multiple Select Question)",
+      "options": [
+        "Stratiform chromite deposits form by weathering of ultramafic rocks.",
+        "Skarn deposits mostly form in calcareous host rocks in contact with felsic intrusives.",
+        "Nickeliferous laterite is a type of placer deposit.",
+        "Gold-bearing vein deposits can form from hydrothermal solutions."
+      ],
+      "answer": ["Skarn deposits mostly form in calcareous host rocks in contact with felsic intrusives.", "Gold-bearing vein deposits can form from hydrothermal solutions."]
+    },
+    {
+      "question": "A spherical ore body (diameter = 40m) has 7% metal content and density of 3300 kg/m³. The reserve (in tonne) of the ore body is ______.",
+      "options": [],
+      "answer": "110628.57"
+    }
+  ],
+  "2021": [],
+  "2022": [],
+  "2023": [],
+  "2024": [],
+  "2025": []
+}
