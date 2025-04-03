@@ -1,0 +1,392 @@
+{
+  "2005": [
+    {
+      "question": "For the construction of a gravity dam choose the most favorable geological condition of the following:",
+      "options": [
+        "Strata dipping downstream in narrow valley",
+        "Strata dipping upstream in wide valley",
+        "Strata dipping downstream in wide valley",
+        "Strata dipping upstream in narrow valley"
+      ],
+      "answer": "Strata dipping upstream in narrow valley"
+    },
+    {
+      "question": "Artesian condition results when the:",
+      "options": [
+        "water table is perched",
+        "aquifer is unconfined",
+        "piezometric surface is above ground level",
+        "water table is above ground level"
+      ],
+      "answer": "piezometric surface is above ground level"
+    }
+  ],
+  "2006": [
+    {
+      "question": "A hill face slopes at an angle 40° due east. The joint set most likely to cause landslide is the one dipping at:",
+      "options": [
+        "20° due west",
+        "30° due east",
+        "60° due east",
+        "65° due south-east"
+      ],
+      "answer": "30° due east"
+    },
+    {
+      "question": "A rock that is porous but not permeable is:",
+      "options": [
+        "sandstone",
+        "siltstone",
+        "shale",
+        "marble"
+      ],
+      "answer": "shale"
+    }
+  ],
+  "2007": [
+    {
+      "question": "Of the following alternatives, the most suitable condition for a road cut in a hilly terrain is where the foliations:",
+      "options": [
+        "are vertical",
+        "dip away from the slope",
+        "dip towards the slope at high angle",
+        "dip towards the slope at low angle"
+      ],
+      "answer": "dip away from the slope"
+    },
+    {
+      "question": "Which of the following rocks can form good aquifers?",
+      "options": [
+        "Sandstone and highly jointed granite",
+        "Sandstone and massive granite",
+        "Sandstone and shale",
+        "Shale and massive granite"
+      ],
+      "answer": "Sandstone and highly jointed granite"
+    }
+  ],
+  "2008": [
+    {
+      "question": "Which part of the arch dam experiences maximum stress?",
+      "options": [
+        "Heel",
+        "Toe",
+        "Abutment",
+        "Spillway"
+      ],
+      "answer": "Abutment"
+    },
+    {
+      "question": "In an underground mine, shaft and ore body are connected by:",
+      "options": [
+        "Bench",
+        "Raise",
+        "Adit",
+        "Crosscut"
+      ],
+      "answer": "Crosscut"
+    },
+    {
+      "question": "Rapid mass movement of water-saturated regolith is called:",
+      "options": [
+        "Landslide",
+        "Creep",
+        "Solifluction",
+        "Earth flow"
+      ],
+      "answer": "Earth flow"
+    },
+    {
+      "question": "In hydrological context, a porous and impermeable earth mass is known as:",
+      "options": [
+        "aquifer",
+        "aquitard",
+        "aquiclude",
+        "aquifuge"
+      ],
+      "answer": "aquiclude"
+    }
+  ],
+  "2009": [
+    {
+      "question": "What is the porosity of sandstone with solid rock volume of 70%?",
+      "options": [
+        "0.7",
+        "0.4",
+        "0.3",
+        "0.07"
+      ],
+      "answer": "0.3"
+    }
+  ],
+  "2010": [
+    {
+      "question": "Match the hydrological terms in Group I with those in Group II. Group I: P. Aquifer, Q. Aquiclude, R. Aquitard, S. Aquifuge. Group II: 1. Non porous, non permeable, 2. Porous, non permeable, 3. Poorly porous and poorly permeable, 4. Porous and permeable.",
+      "options": [
+        "P-1, Q-2, R-3, S-4",
+        "P-2, Q-3, R-4, S-1",
+        "P-4, Q-2, R-3, S-1",
+        "P-4, Q-3, R-1, S-2"
+      ],
+      "answer": "P-4, Q-2, R-3, S-1"
+    }
+  ],
+  "2011": [
+    {
+      "question": "Leakage through rock fractures below a dam can be reduced significantly by:",
+      "options": [
+        "Bolting",
+        "Grouting",
+        "Drilling",
+        "Blasting"
+      ],
+      "answer": "Grouting"
+    },
+    {
+      "question": "Adit is an underground excavation, which is:",
+      "options": [
+        "A horizontal opening giving access to main tunnel",
+        "A horizontal opening used for transporting water to powerhouse",
+        "A vertical opening used for multiple purposes",
+        "An inclined opening providing access to main tunnel"
+      ],
+      "answer": "A horizontal opening giving access to main tunnel"
+    },
+    {
+      "question": "The ratio of volume of underground water released under gravity to the total volume of saturated aquifer is called:",
+      "options": [
+        "transmissivity",
+        "permeability",
+        "storage coefficient",
+        "specific yield"
+      ],
+      "answer": "specific yield"
+    }
+  ],
+  "2012": [
+    {
+      "question": "The mass movement process in which cohesive blocks of earth move on a failure plane with concave-up geometry, is known as:",
+      "options": [
+        "Debris flow",
+        "Creep",
+        "Rotational slide",
+        "Translational slide"
+      ],
+      "answer": "Rotational slide"
+    },
+    {
+      "question": "Which one of the following tunnel alignments is considered geologically favorable?",
+      "options": [
+        "Tunnel through the core of a synform with parallel tunnel- and fold axes",
+        "Tunnel through the core of an antiform with parallel tunnel- and fold axes",
+        "Tunnel through a synform with tunnel- and fold axes perpendicular to each other",
+        "Tunnel through an antiform with tunnel- and fold axes perpendicular to each other"
+      ],
+      "answer": "Tunnel through the core of an antiform with parallel tunnel- and fold axes"
+    },
+    {
+      "question": "Match the lithological units in Group I with hydrogeological nomenclature in Group II. Group I: P. Massive granite, Q. Shale, R. Clayey sandstone, S. Gravelly sandstone. Group II: 1. Aquitard, 2. Aquifer, 3. Aquiclude, 4. Aquifuge.",
+      "options": [
+        "P-1, Q-2, R-3, S-4",
+        "P-1, Q-4, R-3, S-2",
+        "P-4, Q-3, R-1, S-2",
+        "P-2, Q-1, R-4, S-3"
+      ],
+      "answer": "P-4, Q-3, R-1, S-2"
+    }
+  ],
+  "2013": [],
+  "2014": [
+    {
+      "question": "Which one of the following rocks has maximum compressive strength?",
+      "options": [
+        "Marble",
+        "Slate",
+        "Standstone",
+        "Granite"
+      ],
+      "answer": "Granite"
+    },
+    {
+      "question": "In which of the following rocks does groundwater flow obey Darcy's law?",
+      "options": [
+        "Shale",
+        "Sandstone",
+        "Marble",
+        "Granite"
+      ],
+      "answer": "Sandstone"
+    }
+  ],
+  "2015": [
+    {
+      "question": "A mine excavation made along the strike of a 2 meter thick tabular ore body dipping 30° is called: ",
+      "options": [
+        "Crosscut",
+        "Raise",
+        "Drive",
+        "Shaft"
+      ],
+      "answer": "Drive"
+    },
+    {
+      "question": "A 10 cm³ sandstone block has a mass of 20 grams. If the average density of sand grains is 2.5 g/cm³, the porosity (in percent) of the sandstone is _______.",
+      "options": [],
+      "answer": "20"
+    },
+    {
+      "question": "A mineral has a weight of 4.5 grams in air and 3.2 grams in water. Assuming density of water to be 1 g/cm^3, the specific gravity (up to 2 decimal places) of the mineral is -------.",
+      "options": [],
+      "answer": "3.46"
+    },
+    {
+      "question": "A unit which is semi-permeable and does not yield any significant quantity of groundwater is called:",
+      "options": [
+        "Aquiclude",
+        "Aquifer",
+        "Aquitard",
+        "Artesian Aquifer"
+      ],
+      "answer": "Aquitard"
+    }
+  ],
+  "2016": [
+    {
+      "question": "A gravity dam with E-W axis is to be constructed in a narrow river valley between two N-S trending parallel ridges. The river is flowing from south to north. The lithology of the area is represented by 2 to 5 m thick metasedimentary rocks – quartzite, phyllite, and schist. Which of the following geological conditions will be most suitable?",
+      "options": [
+        "Beds in both the ridges strike N-S but dip towards each other",
+        "Beds in both the ridges strike N-S but dip in opposite direction to each other",
+        "Beds in both the ridges strike E-W and dip towards N (downstream)",
+        "Beds in both the ridges strike E-W and dip towards S (upstream)"
+      ],
+      "answer": "Beds in both the ridges strike E-W and dip towards S (upstream)"
+    },
+    {
+      "question": "Weight of a 10 cm³ medium grained sandstone block with 20% (v/v) porosity, in dry state is 26g. The density of the block when fully saturated with water is __________ g/cm³.",
+      "options": [],
+      "answer": "2.8"
+    }
+  ],
+  "2017": [
+    {
+      "question": "Check dams are constructed in association with the main dam in the:",
+      "options": [
+        "Upstream of the main dam to check the siltation of the reservoir",
+        "Downstream of the main dam to check the siltation of the reservoir",
+        "Upstream of the main dam to check the seepage from the reservoir",
+        "Downstream of the main dam to check the seepage from the reservoir"
+      ],
+      "answer": "Upstream of the main dam to check the siltation of the reservoir"
+    },
+    {
+      "question": "Rivers that receive water from groundwater seepage are termed as:",
+      "options": [
+        "effluent rivers",
+        "consequent rivers",
+        "influent rivers",
+        "braided rivers"
+      ],
+      "answer": "effluent rivers"
+    },
+    {
+      "question": "A geological formation neither containing nor transmitting water is termed as:",
+      "options": [
+        "aquiclude",
+        "aquitard",
+        "aquifer",
+        "aquifuge"
+      ],
+      "answer": "aquifuge"
+    }
+  ],
+  "2018": [
+    {
+      "question": "The mass of a fully dried rock sample of volume 100 cm³ is 300 g. The mass of the sample, when fully saturated with water of density 1.00 g/cm³, is 325 g. Assuming no volume change, the computed porosity of the rock is _____% (answer in one decimal place).",
+      "options": [],
+      "answer": "25"
+    },
+    {
+      "question": "A confined sandstone aquifer with a uniform cross-sectional area of 7 m² and a hydraulic conductivity of 2 m/s, transmits water across a hydraulic gradient of 3.2. Assuming steady-state Darcy’s flow, the volumetric flow rate through the aquifer is ______ m³/s (answer in one decimal place).",
+      "options": [],
+      "answer": "44.8"
+    }
+  ],
+  "2019": [
+    {
+      "question": "A 50 kg granite boulder gets dislodged from a cliff of height 20 m and undergoes an absolute vertical free fall. If the acceleration due to gravity is 10 m/s², the boulder will hit the ground with a velocity of __________ m/s.",
+      "options": [],
+      "answer": "20"
+    },
+    {
+      "question": "Mass and volume of a fully dried soil sample are 500 g and 250 cm³, respectively. The average density of the particles in the soil sample is 2.5 g/cm³. The void ratio of the soil sample is ____________%.",
+      "options": [],
+      "answer": "25"
+    },
+    {
+      "question": "Which of the following statements is/are correct with reference to subsurface water? (Multiple Select Question)",
+      "options": [
+        "The perched water table occurs below the water table",
+        "Vadose water occurs in the zone of aeration",
+        "For significant groundwater underflow, the medium must be highly permeable",
+        "Intersection of the water table with the land surface can result in the formation of a spring"
+      ],
+      "answer": [
+        "Vadose water occurs in the zone of aeration",
+        "For significant groundwater underflow, the medium must be highly permeable",
+        "Intersection of the water table with the land surface can result in the formation of a spring"
+      ]
+    },
+    {
+      "question": "Two vertical wells penetrating a confined aquifer are 200 m apart. The water surface elevations in these wells are 35 m and 40 m above a common reference datum. The discharge per unit area through the aquifer is 0.05 m/day. Using Darcy’s law, the coefficient of permeability is _______ m/day.",
+      "options": [],
+      "answer": "2"
+    }
+  ],
+  "2020": [
+    {
+      "question": "Choose the correct statement(s): (Multiple Select Question)",
+      "options": [
+        "Gravity dam is a rigid structure, straight or slightly curved in places.",
+        "Arch dams are commonly built on very strong foundations.",
+        "Buttress dam chiefly consists of reinforced concrete slab that slopes upstream.",
+        "Earth dams have a concrete wall curved with convex face pointed towards the upstream."
+      ],
+      "answer": ["Gravity dam is a rigid structure, straight or slightly curved in places.", "Buttress dam chiefly consists of reinforced concrete slab that slopes upstream."]
+    },
+    {
+      "question": "The grain density (of solids only) and bulk density (solids + voids) of a sandstone sample are 2.7 gm/cm³ and 2.3 gm/cm³, respectively. The total porosity (in %, correct to two decimal places) of the sample is ____.",
+      "options": [],
+      "answer": "14.81"
+    },
+    {
+      "question": "Hardness of groundwater is determined by:",
+      "options": [
+        "Mohs' scale of hardness",
+        "Concentrations of calcium and magnesium",
+        "Bernoulli equation",
+        "Darcy's law"
+      ],
+      "answer": "Concentrations of calcium and magnesium"
+    },
+    {
+      "question": "Choose the correct statement:",
+      "options": [
+        "Porosity of weathered granite is less than a crystalline granite.",
+        "Coarse sands have high porosity and high permeability.",
+        "Clays have high porosity and high permeability.",
+        "Ground water table does not fluctuate with water recharge."
+      ],
+      "answer": "Coarse sands have high porosity and high permeability."
+    },
+    {
+      "question": "An aquifer has a cross sectional area of 1000 m² and a hydraulic gradient of 0.01. If water is flowing from the aquifer at a rate of 10 m³/sec, the hydraulic conductivity (in m/sec) of the aquifer is _______.",
+      "options": [],
+      "answer": "1"
+    }
+  ],
+  "2021": [],
+  "2022": [],
+  "2023": [],
+  "2024": [],
+  "2025": []
+}
