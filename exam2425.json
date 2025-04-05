@@ -1,0 +1,1004 @@
+{
+  "2024" : [
+    {
+      "question": "The plate tectonic setting of Benioff-Wadati zone is",
+      "options": [
+        "continental rift",
+        "subduction zone",
+        "passive margin",
+        "mid-oceanic ridge"
+      ],
+      "answer": "subduction zone"
+    },
+    {
+      "question": "Neutron-rich unstable nuclides undergo",
+      "options": [
+        "β– (negatron) decay",
+        "β+ (positron) decay",
+        "α-decay",
+        "electron capture"
+      ],
+      "answer": "β– (negatron) decay"
+    },
+    {
+      "question": "Which one of the following textures is found in alkali olivine basalt?",
+      "options": [
+        "Rapakivi",
+        "Graphic",
+        "Blastoporphyritic",
+        "Intergranular"
+      ],
+      "answer": "Intergranular"
+    },
+    {
+      "question": "The mineral assemblage found in a granulite facies metabasalt is",
+      "options": [
+        "glaucophane + lawsonite + chlorite",
+        "orthopyroxene + garnet + plagioclase + clinopyroxene + quartz",
+        "actinolite + albite + chlorite + epidote",
+        "omphacite + garnet + quartz"
+      ],
+      "answer": "orthopyroxene + garnet + plagioclase + clinopyroxene + quartz"
+    },
+    {
+      "question": "Glossopteris is found in which of the following formations?",
+      "options": [
+        "Raniganj",
+        "Bagra",
+        "Lameta",
+        "Nimar Sandstone"
+      ],
+      "answer": "Raniganj"
+    },
+    {
+      "question": "In a sequence of undeformed sedimentary rocks, younger rocks overlie older rocks. This conforms to the principle of",
+      "options": [
+        "superposition",
+        "uniformitarianism",
+        "faunal succession",
+        "original horizontality"
+      ],
+      "answer": "superposition"
+    },
+    {
+      "question": "Dropstones are found in",
+      "options": [
+        "Barakar Formation",
+        "Talchir Formation",
+        "Raniganj Formation",
+        "Bijori Formation"
+      ],
+      "answer": "Talchir Formation"
+    },
+    {
+      "question": "The sedimentary structure formed by unidirectional current is",
+      "options": [
+        "trough cross-bedding",
+        "oscillation ripple",
+        "concretion",
+        "hummocky cross-stratification"
+      ],
+      "answer": "trough cross-bedding"
+    },
+    {
+      "question": "Which of the following is the precursor of petroleum?",
+      "options": [
+        "Sporinite",
+        "Clarain",
+        "Kerogen",
+        "Vitrain"
+      ],
+      "answer": "Kerogen"
+    },
+    {
+      "question": "Which of the following is an amorphous variety of SiO2?",
+      "options": [
+        "Quartz",
+        "Citrine",
+        "Agate",
+        "Opal"
+      ],
+      "answer": "Opal"
+    },
+    {
+      "question": "The name of an igneous rock having a modal composition of 55% olivine, 40% orthopyroxene and 5% plagioclase, as per the IUGS classification scheme, is",
+      "options": [
+        "gabbro",
+        "troctolite",
+        "lherzolite",
+        "harzburgite"
+      ],
+      "answer": "harzburgite"
+    },
+    {
+      "question": "Which of the following is the correct decreasing order of abundance of elements in our solar system?",
+      "options": [
+        "O > H > Fe > He",
+        "O > Fe > H > He",
+        "H > O > Fe > He",
+        "H > He > O > Fe"
+      ],
+      "answer": "H > He > O > Fe"
+    },
+    {
+      "question": "The suture of a cephalopod having smooth saddles and crenulated lobes is called",
+      "options": [
+        "orthoceratitic",
+        "goniatitic",
+        "ceratitic",
+        "ammonitic"
+      ],
+      "answer": "ceratitic"
+    },
+    {
+      "question": "Which of the following is a body fossil?",
+      "options": [
+        "Coprolite",
+        "Footprint",
+        "Cast",
+        "Stromatolite"
+      ],
+      "answer": "Cast"
+    },
+    {
+      "question": "Match the morphological features in Group I with the corresponding taxa in Group II. Group I P. Dissepiment Q. Delthyrium R. Pygidium S. Ambulacrum Group II 1. Echinodermata 2. Trilobita 3. Brachiopoda 4. Anthozoa",
+      "options": [
+        "P – 4, Q – 3, R – 2, S – 1 ",
+        "P – 4, Q – 3, R – 1, S – 2",
+        "P – 2, Q – 3, R – 4, S – 1 ",
+        "P – 3, Q – 4, R – 2, S – 1 "
+      ],
+      "answer": "P – 4, Q – 3, R – 2, S – 1"
+    },
+    {
+      "question": "Match the sedimentary features/structures in Group I with the corresponding processes in Group II. Group I P. Stylolite Q. Pseudonodule R. Current crescent S. Stromatolite Group II 1. Liquefaction 2. Diagenesis 3. Organo-sedimentary binding 4. Scouring",
+      "options": [
+        "P – 2, Q – 1, R – 4, S – 3",
+        "P – 2, Q – 3, R – 4, S – 1",
+        "P – 3, Q – 1, R – 4, S – 2",
+        "P – 4, Q – 1, R – 2, S – 3"
+      ],
+      "answer": "P – 2, Q – 1, R – 4, S – 3"
+    },
+    {
+      "question": "Match the geomorphic features in Group I with the corresponding environments in Group II. Group I P. Dreikanter Q. Cirque R. Natural levee S. Berm Group II 1. Glacial 2. Beach 3. Eolian 4. Fluvial",
+      "options": [
+        "P – 3, Q – 1, R – 4, S – 2",
+        "P – 2, Q – 1, R – 4, S – 3",
+        "P – 3, Q – 4, R – 1, S – 2",
+        "P – 4, Q – 2, R – 3, S – 1"
+      ],
+      "answer": "P – 3, Q – 1, R – 4, S – 2"
+    },
+    {
+      "question": "The correct hierarchy of the given stratigraphic units is",
+      "options": [
+        "Group > Member > Formation > Bed",
+        "Eon > Era > Epoch > Period",
+        "Group > Formation > Member > Bed",
+        "Eon > Era > Series > Systems"
+      ],
+      "answer": "Group > Formation > Member > Bed"
+    },
+    {
+      "question": "Match the minerals in Group I with their highest order of interference color in Group II (for 0.03 mm mineral thickness). Group I P. Sillimanite Q. Quartz R. Muscovite S. Calcite Group II 1. First order 2. Second order 3. Greater than third order 4. Third order variegated",
+      "options": [
+        "P – 2, Q – 4, R – 1, S – 3",
+        "P – 3, Q – 1, R – 2, S – 4",
+        "P – 2, Q – 1, R – 4, S – 3",
+        "P – 4, Q – 2, R – 3, S – 1"
+      ],
+      "answer": "P – 2, Q – 1, R – 4, S – 3"
+    },
+    {
+      "question": "The saturated thickness of an unconfined aquifer is defined by the distance between",
+      "options": [
+        "the ground surface and the water table",
+        "the water table and the underlying confining layer",
+        "the water table and the mean sea level",
+        "the ground surface and the underlying confining layer"
+      ],
+      "answer": "the water table and the underlying confining layer"
+    },
+    {
+      "question": "Darcy’s law quantifies the volume of groundwater flow",
+      "options": [
+        "per unit surface area of the aquifer",
+        "per unit time",
+        "per unit cross-sectional area of the aquifer",
+        "per unit cross-sectional area of the aquifer per unit time"
+      ],
+      "answer": "per unit time"
+    },
+    {
+      "question": "According to Strahler’s stream ordering system, what is the highest order of stream in the given diagram?",
+      "options": [
+        "4",
+        "3",
+        "2",
+        "1"
+      ],
+      "answer": "3"
+    },
+    {
+      "question": "A tunnel with vertical walls and arched crown is constructed through a set of sedimentary beds. The thickness of individual beds is significantly less than the wall-height of the tunnel. For which of the following conditions, one of the tunnel walls becomes unstable?",
+      "options": [
+        "The tunnel axis is horizontal and the beds are horizontal",
+        "The tunnel axis is parallel to the strike of beds and the beds dip 45⁰ – 60⁰",
+        "The tunnel axis is parallel to the strike of beds and the beds are vertical",
+        "The tunnel axis is perpendicular to the strike of beds and the beds are vertical"
+      ],
+      "answer": "The tunnel axis is parallel to the strike of beds and the beds dip 45⁰ – 60⁰"
+    },
+    {
+      "question": "A plunging fold will NOT show a V-shaped outcrop pattern on a planar ground surface if the plunge of the fold axis is",
+      "options": [
+        "equal to the dip of the ground surface in the same direction",
+        "steeper than the dip of the ground surface in the same direction",
+        "equal to the dip of the ground surface in the opposite direction",
+        "steeper than the dip of the ground surface in the opposite direction"
+      ],
+      "answer": "equal to the dip of the ground surface in the same direction"
+    },
+    {
+      "question": "The given map shows the outcrop patterns of beds (1 – 4) across a fault plane, F – F’, on a flat ground. X and Y refer to the two blocks across F – F’. Which one of the following options is the correct interpretation of the structure depicted on the map?",
+      "options": [
+        "A south-easterly plunging synform that was subsequently faulted with block X upthrown",
+        "A north-westerly plunging antiform that was subsequently faulted with block Y upthrown",
+        "A south-easterly plunging antiform that was subsequently faulted with block X downthrown",
+        "A north-westerly plunging synform that was subsequently faulted with block Y downthrown"
+      ],
+      "answer": "A south-easterly plunging antiform that was subsequently faulted with block X upthrown"
+    },
+    {
+      "question": "The crystal form 'dome' contains",
+      "options": [
+        "two parallel faces related by a 2-fold axis of symmetry",
+        "two non-parallel faces related by a 2-fold axis of symmetry",
+        "two parallel faces related by a mirror plane",
+        "two non-parallel faces related by a mirror plane"
+      ],
+      "answer": "two non-parallel faces related by a mirror plane"
+    },
+    {
+      "question": "The symbols [100], {100} and (100) in a crystal represent the sequence",
+      "options": [
+        "form, line and face",
+        "form, face and line",
+        "line, face and form",
+        "line, form and face"
+      ],
+      "answer": "line, form and face"
+    },
+    {
+      "question": "Match the stratigraphic units in Group I with the corresponding Archean cratons in Group II. Group I P. Bababudan Group Q. Banded Gneissic Complex-I R. Bonai Granite S. Kolar Group Group II 1. Eastern Dharwar 2. Western Dharwar 3. Aravalli 4. Singhbhum",
+      "options": [
+        "P – 2, Q – 3, R – 4, S – 1",
+        "P – 3, Q – 2, R – 1, S – 4",
+        "P – 2, Q – 1, R – 4, S – 3",
+        "P – 4, Q – 3, R – 2, S – 1"
+      ],
+      "answer": "P – 2, Q – 3, R – 4, S – 1"
+    },
+    {
+      "question": "Which one of the metamorphic facies sequence in order of increasing metamorphic grade defines thermal metamorphism?",
+      "options": [
+        "Sanidinite → pyroxene hornfels → hornblende hornfels → albite-epidote hornfels",
+        "Albite-epidote hornfels → hornblende hornfels → sanidinite → pyroxene hornfels",
+        "Hornblende hornfels → albite-epidote hornfels → pyroxene hornfels → sanidinite",
+        "Albite-epidote hornfels → hornblende hornfels → pyroxene hornfels → sanidinite"
+      ],
+      "answer": "Albite-epidote hornfels → hornblende hornfels → pyroxene hornfels → sanidinite"
+    },
+    {
+      "question": "Nickel ores are NOT associated with",
+      "options": [
+        "ultramafic igneous rocks",
+        "laterites",
+        "sea-floor polymetallic nodules",
+        "skarns"
+      ],
+      "answer": "skarns"
+    },
+    {
+      "question": "Which of the following statements on mantle partial melting are correct?",
+      "options": [
+        "Shallow melting produces tholeiitic basalts",
+        "Low-degree melting produces alkaline basalts",
+        "Presence of CO2-rich volatiles favors the formation of tholeiitic basalts",
+        "Presence of H2O-rich volatiles favors the formation of alkaline basalts"
+      ],
+      "answer": ["Shallow melting produces tholeiitic basalts", "Low-degree melting produces alkaline basalts"]
+    },
+    {
+      "question": "Which of the following fossil groups are from the Siwalik Group?",
+      "options": [
+        "Proboscidea",
+        "Giraffidae",
+        "Dinosauria",
+        "Equidae"
+      ],
+      "answer": ["Proboscidea", "Giraffidae", "Equidae"]
+    },
+    {
+      "question": "The correct stratigraphic successions arranged from the oldest to the youngest are",
+      "options": [
+        "Uttatur → Trichinopoly → Ariyalur → Niniyur",
+        "Chari → Patcham → Umia → Katrol",
+        "Chinji → Nagri → Dhok Pathan → Tatrot",
+        "Semri → Rewa → Kaimur → Bhander"
+      ],
+      "answer": ["Uttatur → Trichinopoly → Ariyalur → Niniyur","Chinji → Nagri → Dhok Pathan → Tatrot"]
+    },
+    {
+      "question": "Which of the following combinations are correctly matched?",
+      "options": [
+        "Photic zone – biogenic carbonate rocks",
+        "Delta – progradational coarsening-up succession",
+        "Sabkha – shelf storm deposit",
+        "Shelf break – submarine fans"
+      ],
+      "answer": ["Photic zone – biogenic carbonate rocks","Delta – progradational coarsening-up succession","Shelf break – submarine fans"]
+    },
+    {
+      "question": "High drainage density is representative of a terrain with",
+      "options": [
+        "high relief",
+        "arid climate",
+        "impermeable surface layer",
+        "permeable surface layer"
+      ],
+      "answer": ["high relief","impermeable surface layer"]
+    },
+    {
+      "question": "Mass-wasting processes are",
+      "options": [
+        "landslides",
+        "lahars",
+        "avalanches",
+        "sand storms"
+      ],
+      "answer": ["landslides", "lahars", "avalanches"]
+    },
+    {
+      "question": "Which ones of the following correspond to the Pyroxene group?",
+      "options": [
+        "CaMgSi2O6",
+        "CaAl2SiO6",
+        "Ca2Si2O6",
+        "NaFeSi2O6"
+      ],
+      "answer": ["CaMgSi2O6","CaAl2SiO6", "NaFeSi2O6"]
+    },
+    {
+      "question": "Which of the following processes are correctly matched with corresponding deformation structures?",
+      "options": [
+        "Pressure solution – rock cleavage",
+        "Jointing – plumose markings",
+        "Layer parallel compression – buckle folds",
+        "Cohesion loss – slickensides"
+      ],
+      "answer": ["Pressure solution – rock cleavage", "Jointing – plumose markings", "Layer parallel compression – buckle folds"]
+    },
+    {
+      "question": "For the given Barrovian metamorphic sequence, which of the following statements are correct?",
+      "options": [
+        "Grade of metamorphism increases from left to right",
+        "'P' isograd is the Garnet isograd",
+        "Zone 'Q' is the Garnet zone",
+        "'R' isograd is the Kyanite isograd"
+      ],
+      "answer": [
+        "Grade of metamorphism increases from left to right",
+        "Zone 'Q' is the Garnet zone",
+        "'R' isograd is the Kyanite isograd"
+      ]
+    },
+    {
+      "question": "Which ones of the following are formed by brittle deformation?",
+      "options": [
+        "Cataclasite",
+        "Breccia",
+        "Mylonite",
+        "Gouge"
+      ],
+      "answer": [
+        "Cataclasite",
+        "Breccia",
+        "Gouge"
+      ]
+    },
+    {
+      "question": "The value of φ (phi) of a sediment grain having a diameter of 0.125 mm is ________. (In integer)",
+      "options": [],
+      "answer": "3"
+    },
+    {
+      "question": "The vertical separation of a displaced horizontal stratum along a dip-slip reverse fault is 10 m when measured on a section perpendicular to the fault-strike. If the dip of the fault is 30⁰, the net slip of the fault will be ________ m. (In integer)",
+      "options": [],
+      "answer": "20"
+    },
+    {
+      "question": "The dips of the normal and overturned limbs of a horizontal-overturned antiform are 30⁰ and 70⁰, respectively. The interlimb angle of this fold is ________ degrees. (In integer)",
+      "options": [],
+      "answer": "40"
+    },
+    {
+      "question": "In a mineral with formula KAl3Si3O10(F0.5OHx), the value of 'x' is ________. (Round off to one decimal place)",
+      "options": [],
+      "answer": "1.5"
+    },
+    {
+      "question": "The atom percent of Fe in pyrrhotite of composition Fe0.77S is _______. (Round off to two decimal places)",
+      "options": [],
+      "answer": "43.49"
+    },
+    {
+      "question": "Consider the univariant metamorphic reaction Albite = Jadeite + Quartz. The minimum number of chemical components required to describe the composition of all the phases is _______. (In integer)",
+      "options": [],
+      "answer": "2"
+    },
+    {
+      "question": "The mean flow velocity of water in an open channel having an average depth of 0.2 m, and with Froude Number 4, is _______m/s. (Round off to one decimal place) (Use g = 9.8 ms-2)",
+      "options": [],
+      "answer": "5.6"
+    },
+    {
+      "question": "An aquifer has a cross-sectional area of 10 m2 and a hydraulic conductivity of 0.25 cm/s. The volume of water that will flow per second through the aquifer for a hydraulic gradient of 0.04 is _______ cm3. (Round off to three decimal places)",
+      "options": [],
+      "answer": "1000"
+    },
+    {
+      "question": "The geothermal gradient in the continental crust is 0.02 ⁰C/m. If the surface temperature is 25 ⁰C, the temperature at a depth of 18 km from the surface is ______ ⁰C. (In integer)",
+      "options": [],
+      "answer": "385"
+    },
+    {
+      "question": "The area of a triangular block of a massive orebody is 1500 m2. If the thickness of the orebody is 5 m, 6 m and 7 m at the three corners of the triangular block, and the ore density is 2.5 tons/m3, the estimated ore reserve of the block is _______ tons. (In integer)",
+      "options": [],
+      "answer": "22500"
+    },
+    {
+      "question": "Clinopyroxene crystallizing from a basaltic magma has Sm concentration of 24 ppm. If the clinopyroxene-melt partition coefficient for Sm is 1.2, the concentration of Sm in the basaltic magma will be _______ ppm. (In integer) ",
+      "options": [],
+      "answer": "20"
+    },
+    {
+      "question": "The lithostatic pressure at a depth of 36.5 km in the continental crust having an average density of 2800 kg/m3, is _______GPa. (Round off to the nearest integer) (Use g = 9.8 m/s2)",
+      "options": [],
+      "answer": "1"
+    },
+    {
+      "question": "The fraction of 24 11 𝑁𝑎 atoms remaining after a decay interval of 5.0 hours will be _______. (Round off to three decimal places) (Use t1/2 = 15.0 hours) ",
+      "options": [],
+      "answer": "0.792"
+    },
+    {
+      "question": "The thickness of a dipping coal bed measured along a vertical drill hole is 15 m. If the dip of the coal bed is 30⁰, the orthogonal thickness of the coal bed is _______ m. (Round off to the nearest integer) ",
+      "options": [],
+      "answer": "13"
+    },
+    {
+      "question": "The mole fraction of forsterite in olivine with MgO = 29.17 weight %, FeO = 34.65 weight % and SiO2 = 36.18 weight % is _______. (Round off to two decimal places) (Use molecular weight, in g/mol, of MgO = 40.31, FeO = 71.85 and SiO2 = 60.00) ",
+      "options": [],
+      "answer": "0.58"
+    },
+    {
+      "question": "A partially saturated soil sample has a volume of 1200 cc. The volume of water present in the sample is 300 cc. The mass of solid in the sample is 1908 g and the particle density is 2.65 g/cc. The porosity (n) of the soil sample is _____ %. (In integer)",
+      "options": [],
+      "answer": "40"
+    },
+    {
+      "question": "A rock element during deformation, experienced a pressure change of 5×104 N/m2, due to which its volume changed from 4 cm3 to 3.9 cm3. The bulk modulus of the rock is _______ ×106 N/m2. (In integer) ",
+      "options": [],
+      "answer": "2"
+    },
+    {
+      "question": "For an anisotropic crystal of thickness 0.04 mm and refractive indices of 1.636 and 1.486 along the slow and fast directions, respectively, the retardation produced is _______ nm. (In integer)",
+      "options": [],
+      "answer": "6000"
+    },
+    {
+      "question": "An orebody contains pyrite and chalcopyrite in the same molar proportions. The percentage concentration of Cu in the ore will be _______. (Round off to the nearest integer) ",
+      "options": [],
+      "answer": "21"
+    },
+    {
+      "question": "In the given isobaric binary temperature-composition (T-X) phase diagram involving solids A and B, the fraction of melt remaining at point Q for a magma having initial composition P will be _______. (Round off to one decimal place) ",
+      "options": [],
+      "answer": "0.5"
+    }
+  ],
+  "2025":[
+    {
+      "question": "The density contrast across which one of the following transitions in the Earth is maximum?",
+      "options": [
+        "Upper crust – lower crust",
+        "Upper mantle – lower mantle",
+        "Lower mantle – outer core",
+        "Outer core – inner core"
+      ],
+      "answer": "Lower mantle – outer core"
+    },
+    {
+      "question": "Which one of the following is NOT an ultramafic rock?",
+      "options": [
+        "Wehrlite",
+        "Olivine websterite",
+        "Harzburgite",
+        "Anorthosite"
+      ],
+      "answer": "Anorthosite"
+    },
+    {
+      "question": "The longitude of the person's position at a place 3 hours ahead of UTC (Prime Meridian) is",
+      "options": [
+        "15° E",
+        "30° W",
+        "45° E",
+        "45° W"
+      ],
+      "answer": "45° E"
+    },
+    {
+      "question": "Which one of the following does NOT have a polymorph?",
+      "options": [
+        "Fluorite",
+        "Pyrite",
+        "Calcite",
+        "Diamond"
+      ],
+      "answer": "Fluorite"
+    },
+    {
+      "question": "Which one of the following CORRECTLY describes the footwall block relative to the hanging wall of a planar normal fault?",
+      "options": [
+        "Lies above the fault plane and relatively moves down",
+        "Lies below the fault plane and relatively moves horizontally",
+        "Lies above the fault plane and relatively moves up",
+        "Lies below the fault plane and relatively moves up"
+      ],
+      "answer": "Lies below the fault plane and relatively moves up"
+    },
+    {
+      "question": "Which one of the following minerals has a characteristic pale yellow streak?",
+      "options": [
+        "Sphalerite",
+        "Pyrite",
+        "Hematite",
+        "Cuprite"
+      ],
+      "answer": "Sphalerite"
+    },
+    {
+      "question": "Which one of the following is a fluorite deposit?",
+      "options": [
+        "Sonapahar, Meghalaya",
+        "Mangampeta, Andhra Pradesh",
+        "Belka Pahar, Rajasthan",
+        "Dongargaon, Maharashtra"
+      ],
+      "answer": "Dongargaon, Maharashtra"
+    },
+    {
+      "question": "According to Dunham's classification, which one of the following limestones is grain-supported and contains mud?",
+      "options": [
+        "Wackestone",
+        "Packstone",
+        "Grainstone",
+        "Mudstone"
+      ],
+      "answer": "Packstone"
+    },
+    {
+      "question": "Which one of the following vertebrate fauna is a Proboscidea?",
+      "options": [
+        "Hipparion",
+        "Mastodon",
+        "Indratherium",
+        "Sivapithecus"
+      ],
+      "answer": "Mastodon"
+    },
+    {
+      "question": "Which one of the following is an undifferentiated meteorite?",
+      "options": [
+        "Basaltic achondrite",
+        "Carbonaceous chondrite",
+        "Eucrite",
+        "Pallasite"
+      ],
+      "answer": "Carbonaceous chondrite"
+    },
+    {
+      "question": "Which one of the following is the CORRECT sequence of igneous rocks with increasing SiO2 content?",
+      "options": [
+        "basalt → komatiite → dacite → andesite",
+        "dacite → basalt → komatiite → andesite",
+        "basalt → dacite → andesite → komatiite",
+        "komatiite → basalt → andesite → dacite"
+      ],
+      "answer": "komatiite → basalt → andesite → dacite"
+    },
+    {
+      "question": "The schematic diagram given below shows textural relationship among garnet, muscovite, biotite and kyanite in a metapelite. Biotite defines S1 foliation and muscovite defines S2 and S3 foliations. S1, S2 and S3 fabrics were developed during distinct deformation events D1, D2 and D3, respectively. Which one of the following represents the pre-D3 mineral assemblage?",
+      "options": [
+        "kyanite + garnet + biotite",
+        "garnet + biotite + muscovite",
+        "garnet + kyanite + muscovite",
+        "biotite + muscovite + kyanite"
+      ],
+      "answer": "garnet + biotite + muscovite"
+    },
+    {
+      "question": "Which one of the following characteristic mineral assemblages represents eclogite facies metamorphism of a pelitic protolith?",
+      "options": [
+        "garnet + K-feldspar + sillimanite + cordierite",
+        "talc + kyanite + phengite + garnet",
+        "chlorite + muscovite + biotite + albite",
+        "staurolite + chloritoid + biotite + garnet"
+      ],
+      "answer": "talc + kyanite + phengite + garnet"
+    },
+    {
+      "question": "Which one of the following drainage patterns is formed by stream paths that follow circular segments?",
+      "options": [
+        "Annular",
+        "Trellis",
+        "Radial",
+        "Centripetal"
+      ],
+      "answer": "Annular"
+    },
+    {
+      "question": "A mineral displays magenta interference colour (retardation, Δm = 550 nm) under crossed polarized light. If an accessory plate adds retardation of 100 nm, the interference colour observed is",
+      "options": [
+        "1st order yellow",
+        "1st order green",
+        "2nd order blue",
+        "2nd order red"
+      ],
+      "answer": "2nd order blue"
+    },
+    {
+      "question": "Match the symmetry elements in Group I with the corresponding crystal system in Group II. Group I: P. 3A2, 3m, 4A3+i; Q. i, 1A4, m; R. i, 3A2, 3m; S. 1A3+m, 3m, 3A2. Group II: 1. Orthorhombic; 2. Hexagonal; 3. Tetragonal; 4. Cubic",
+      "options": [
+        "P-3, Q-4, R-1, S-2",
+        "P-2, Q-3, R-4, S-1",
+        "P-4, Q-3, R-1, S-2",
+        "P-4, Q-1, R-2, S-3"
+      ],
+      "answer": "P-4, Q-3, R-1, S-2"
+    },
+    {
+      "question": "Match the cycles in Group I with the corresponding processes in Group II. Group I: P. Hydrological cycle; Q. Biogeochemical cycle; R. Rock cycle; S. Wilson cycle. Group II: 1. Regolith formation; 2. Ocean closure; 3. Infiltration; 4. Denitrification",
+      "options": [
+        "P-4, Q-2, R-1, S-3",
+        "P-2, Q-4, R-3, S-1",
+        "P-3, Q-1, R-4, S-2",
+        "P-3, Q-4, R-1, S-2"
+      ],
+      "answer": "P-3, Q-4, R-1, S-2"
+    },
+    {
+      "question": "Which one of the following is the oldest volcanics?",
+      "options": [
+        "Deccan",
+        "Panjal",
+        "Sylhet",
+        "Rajmahal"
+      ],
+      "answer": "Panjal"
+    },
+    {
+      "question": "The following map shows an outcrop of a coal bed that intersects the elevation contours. Which one of the following statements is CORRECT?",
+      "options": [
+        "Bed intersects a spur and dip of bed is less than gradient of spur axis",
+        "Bed intersects a valley and dip of bed is greater than valley gradient",
+        "Bed intersects a spur and dip of bed is equal to gradient of spur axis",
+        "Bed intersects a valley and dip of bed is less than valley gradient"
+      ],
+      "answer": "Bed intersects a valley and dip of bed is greater than valley gradient"
+    },
+    {
+      "question": "Refer the dam section shown below. Which one of the following conditions represents the most stable state of the dam against rotation about its center of gravity?",
+      "options": [
+        "T > 3W and L < H",
+        "Resultant force of T and W passes through the base of the dam",
+        "H > 3L and T = W",
+        "Resultant force of T and W passes outside the base of the dam"
+      ],
+      "answer": "Resultant force of T and W passes through the base of the dam"
+    },
+    {
+      "question": "Which one of the following is related to porphyry Cu-Mo deposit?",
+      "options": [
+        "Host rock is pegmatite",
+        "Forms due to first boiling process",
+        "Occurs in rift settings",
+        "Forms due to sulfur saturation"
+      ],
+      "answer": "Forms due to first boiling process"
+    },
+    {
+      "question": "Which one of the following statements is CORRECT for coal?",
+      "options": [
+        "Sapropelic coals are composed of a mixture of macroscopic plant debris",
+        "Fusain is a microlithotype in coal",
+        "Clarain is grey in color and has dull lustre",
+        "High value of vitrinite reflectance indicates a low rank coal"
+      ],
+      "answer": "Fusain is a microlithotype in coal"
+    },
+    {
+      "question": "Which one of the following sedimentary structures is formed by rapid release of water?",
+      "options": [
+        "Ripple lamination",
+        "Gutter cast",
+        "Convolute lamination",
+        "Prod mark"
+      ],
+      "answer": "Convolute lamination"
+    },
+    {
+      "question": "Which one of the following represents the CORRECT combination of stratigraphic unit with its corresponding age?",
+      "options": [
+        "Barail Formation – Miocene",
+        "Mahadek Formation – Oligocene",
+        "Naredi Formation – Eocene",
+        "Dalmiapuram Formation – Paleocene"
+      ],
+      "answer": "Naredi Formation – Eocene"
+    },
+    {
+      "question": "Match the stratigraphic units in Group I with their corresponding basins in Group II. Group I: P. Kajrahat Limestone; Q. Shahabad Limestone; R. Chanda Limestone; S. Narji Limestone. Group II: 1. Cuddapah; 2. Pranhita-Godavari; 3. Vindhyan; 4. Bhima",
+      "options": [
+        "P-3, Q-2, R-1, S-4",
+        "P-3, Q-4, R-2, S-1",
+        "P-2, Q-4, R-3, S-1",
+        "P-1, Q-3, R-2, S-4"
+      ],
+      "answer": "P-3, Q-4, R-2, S-1"
+    },
+    {
+      "question": "Match the morphological features in Group I with their corresponding descriptions given in Group II. Group I: P. Hyponome; Q. Myophore; R. Hypostome; S. Myostracum. Group II: 1. A large plate; 2. Irregular prismatic crystals; 3. Long tubular structure; 4. Shaft with a head",
+      "options": [
+        "P-3, Q-4, R-1, S-2",
+        "P-3, Q-2, R-4, S-1",
+        "P-2, Q-4, R-1, S-3",
+        "P-1, Q-3, R-4, S-2"
+      ],
+      "answer": "P-3, Q-4, R-1, S-2"
+    },
+    {
+      "question": "Which one of the following is a Paleozoic flora?",
+      "options": [
+        "Williamsonia",
+        "Dicroidium",
+        "Gangamopteris",
+        "Nilssonia"
+      ],
+      "answer": "Gangamopteris"
+    },
+    {
+      "question": "Which one of the following lithospheric plates has the least length of convergent boundary?",
+      "options": [
+        "Pacific",
+        "Indian",
+        "Antarctic",
+        "South American"
+      ],
+      "answer": "Antarctic"
+    },
+    {
+      "question": "Which one of the following elements in the Earth is a chalcophile and shows siderophilic behavior?",
+      "options": [
+        "Mg",
+        "Fe",
+        "Li",
+        "Pb"
+      ],
+      "answer": "Fe"
+    },
+    {
+      "question": "Which one of the following set of landforms results dominantly due to erosion?",
+      "options": [
+        "Cirque and ventifact",
+        "Loess and yardangs",
+        "Barchans and till",
+        "Moraine and eskers"
+      ],
+      "answer": "Cirque and ventifact"
+    },
+    {
+      "question": "The shaded region (P) in the given ACF diagram represents the compositional range of mafic rocks that have undergone granulite facies metamorphism. Which of the following equilibrium mineral assemblage(s) is/are identified in these mafic rocks?",
+      "options": [
+        "plagioclase + clinopyroxene",
+        "plagioclase + clinopyroxene + orthopyroxene",
+        "plagioclase + orthopyroxene + garnet",
+        "plagioclase + garnet + cordierite"
+      ],
+      "answer": ["plagioclase + clinopyroxene", "plagioclase + clinopyroxene + orthopyroxene"]
+    },
+    {
+      "question": "Which of the following stereographic projections represent(s) an upright plunging fold?",
+      "options": ["P", "Q", "R", "S"],
+      "answer": ["P", "R"]
+    },
+    {
+      "question": "Which of the following property/properties of a mineral indicate(s) uniaxial negative optic sign?",
+      "options": [
+        "Ordinary ray is slow",
+        "Extraordinary ray is slow",
+        "nε < nω",
+        "nε > nω"
+      ],
+      "answer": ["Ordinary ray is slow", "nε < nω"]
+    },
+    {
+      "question": "Which of the following statements related to stratigraphy is/are CORRECT?",
+      "options": [
+        "Grain-size of sediments progressively coarsens upward in a deltaic succession",
+        "Paraconformity shows a distinct erosional surface",
+        "Paleogene Period includes Paleocene, Eocene and Oligocene Epochs",
+        "Sea-level fall causes shifting of river mouth towards deep ocean"
+      ],
+      "answer": ["Grain-size of sediments progressively coarsens upward in a deltaic succession","Paleogene Period includes Paleocene, Eocene and Oligocene Epochs", "Sea-level fall causes shifting of river mouth towards deep ocean"]
+    },
+    {
+      "question": "Which of following combinations of sedimentary environments and their features is/are CORRECTLY matched?",
+      "options": [
+        "Fluvial – tabular cross-stratification",
+        "Submarine fan – rain print",
+        "Beach – planar lamination",
+        "Supratidal – mud-cracks"
+      ],
+      "answer": ["Fluvial – tabular cross-stratification","Beach – planar lamination", "Supratidal – mud-cracks"]
+    },
+    {
+      "question": "Which of the following is/are characteristic feature(s) of Brachiopods?",
+      "options": [
+        "Valves equilateral",
+        "Inequivalved",
+        "Plane of symmetry between valves",
+        "Presence of ligament"
+      ],
+      "answer": ["Valves equilateral", "Inequivalved"]
+    },
+    {
+      "question": "Which of the following characteristics of fossils is/are necessary for biostratigraphic applications?",
+      "options": [
+        "Wide geographic distribution",
+        "Long vertical range",
+        "Good preservation of hard shells",
+        "Facies dependence"
+      ],
+      "answer": ["Wide geographic distribution","Good preservation of hard shells"]
+    },
+    {
+      "question": "Moon is considered to have been formed due to high temperature condensation of post-collisional ejected material. Which of the following statement(s) related to its mantle composition as compared to CI carbonaceous chondrite is/are CORRECT?",
+      "options": [
+        "Depleted in volatile and refractory elements",
+        "Depleted in volatile and enriched in refractory elements",
+        "Higher Rb/Sr element ratio",
+        "Lower K/U element ratio"
+      ],
+      "answer": ["Depleted in volatile and enriched in refractory elements", "Lower K/U element ratio"]
+    },
+    {
+      "question": "Which of the following statement(s) related to ore-forming processes is/are CORRECT?",
+      "options": [
+        "Lateritization involves eluviation and illuviation processes",
+        "Stratiform sediment-hosted copper (SSC)-type deposits are formed at mid-oceanic ridges",
+        "Fluid phase separation is the major process of formation of Mississippi Valley (MV)-type deposits",
+        "Formation of Superior-type banded iron formation (BIF) is related to the Great Oxidation Event"
+      ],
+      "answer": ["Lateritization involves eluviation and illuviation processes", "Formation of Superior-type banded iron formation (BIF) is related to the Great Oxidation Event"]
+    },
+    {
+      "question": "Which of the following landforms is/are weathering dominated?",
+      "options": ["Duricrusts", "Berms", "Inselbergs", "Tors"],
+      "answer": ["Duricrusts", "Inselbergs", "Tors"]
+    },
+    {
+      "question": "A metapelite is composed of muscovite + quartz + K-feldspar + kyanite mineral assemblage. If the muscovite and K-feldspar show solid solution between 'Na' and 'K' end-members, the minimum number of components that defines this metapelitic assemblage is ____________. (In integer)",
+      "options": [],
+      "answer": "5"
+    },
+    {
+      "question": "The mineral formula of orthopyroxene calculated on 6 Oxygen atom basis is (Mg1.2Fe0.8)Si2O6. The weight percentage of MgO in the chemical composition of orthopyroxene is __________. (Round off to one decimal place) Use the following data: Oxide SiO2 MgO FeO Molecular weight (g mol-1) 60.08 40.30 71.84",
+      "options": [],
+      "answer": "21.0"
+    },
+    {
+      "question": "A grain has a size of 36 mm when observed under a magnification of 125 times. The actual size of the grain in µm is __________. (In integer)",
+      "options": [],
+      "answer": "288"
+    },
+    {
+      "question": "Radiogenic atoms of 40K have a half-life of 1.25 × 10^9 years. The percentage of 40K atoms left after six half-lives will be _____________. (Round off to two decimal places)",
+      "options": [],
+      "answer": "1.50"
+    },
+    {
+      "question": "For a 2/m pyroxene, the extinction angle between the vibration direction and crystallographic axis, X ˄ c, is 36°. Then the angle Y ˄ b in degrees will be _____________. (In integer)",
+      "options": [],
+      "answer": "0"
+    },
+    {
+      "question": "A kimberlite pipe has a bulk density of 2.5 g/cc and contains diamond of grade 100 carat/metric ton. If the pipe contains only 1-carat diamond crystals, then the number of diamond crystals per cubic meter in the pipe is _______. (In integer)",
+      "options": [],
+      "answer": "250"
+    },
+    {
+      "question": "Consider the present volume of the Earth's continental crust as 7.5 × 10^18 m3. If continental crust formation started 3.0 Ga ago, then the average rate of continental crustal growth is _________ km^3 yr^−1. (Round off to one decimal place)",
+      "options": [],
+      "answer": "2.5"
+    },
+    {
+      "question": "The Throw of a fault is 4 m and the Heave is 3 m. The Dip separation of the fault, in meters, is ____________. (In integer)",
+      "options": [],
+      "answer": "5"
+    },
+    {
+      "question": "A Rb–Sr isochron plot of cogenetic volcanic rocks yielded a slope of 0.003. The eruption age of these rocks is __________ Ma. (Round off to one decimal place) (Use λ87Rb =  1.39 ×10−11 yr−1)",
+      "options": [],
+      "answer": "214.0"
+    },
+    {
+      "question": "The apparent dip amount of a limestone bed in the direction 010° is 30°. If the bed strikes 320°, the value of true dip amount in degrees is ___________. (Round off to nearest integer)",
+      "options": [],
+      "answer": "37"
+    },
+    {
+      "question": "A magma having density of 2900 kg m−3 just reaches the surface through a two-layered crust as shown in the figure below. Assuming isostatic equilibrium, its depth of melting is ______________ km. (Round off to one decimal place) ",
+      "options": [],
+      "answer": "48.0"
+    },
+    {
+      "question": "The cation exchange equilibrium reaction between end-member components of orthopyroxene and ilmenite is given below: MgSiO3 + FeTiO3 = FeSiO3 + MgTiO3 (Enstatite) (Fe-Ilmenite) (Ferrosilite) (Mg-Ilmenite). Considering ideal mixing of Fe and Mg in orthopyroxene and ilmenite solid solutions, the mole fractions are XMg Orthopyroxene = 0.60 and XMg Ilmenite = 0.40. The equilibrium constant of the above reaction is ___________. (Round off to two decimal places)",
+      "options": [],
+      "answer": "0.40"
+    },
+    {
+      "question": "The isobaric temperature-composition (T–X) phase diagram given below shows the phase relation between components M and N. The equilibrium melting undergone by the rock R to generate the liquid of composition L is _______________ %. (In integer)  ",
+      "options": [],
+      "answer": "50"
+    },
+    {
+      "question": "A satellite launching vehicle is carrying a lander for Moon mapping. As shown in the figure below, P is the position where the gravitational forces exerted by Earth and Moon on the vehicle balance out. The distance P from the center of the Earth is __________ × 105 km. (Round off to two decimal places)  ",
+      "options": [],
+      "answer": "3.37"
+    },
+    {
+      "question": "The data tabulated below are for flooding events in the last 400 years. The probability of a large flood accompanied by glacial lake outburst flood (GLOF) in 2025 is ____________ × 10−3. (Round off to one decimal place) ",
+      "options": [],
+      "answer": "7.0"
+    },
+    {
+      "question": "A well-developed succession of laminated shale is bound by two volcanic ashbeds that were precisely dated as shown in the schematic diagram given below. Assuming a constant sedimentation rate, the age of the fossiliferous limestone bed 65 m above the basal volcanic ash bed is _____________ Ma. (Round off to nearest integer) ",
+      "options": [],
+      "answer": "104"
+    },
+    {
+      "question": "Pumping and extraction of groundwater from an unconfined aquifer resulted in a uniform drop of water table by 40 m over an area of 1 km2. If the porosity of the aquifer is 35% and specific retention is 15%, the volume of water (in m3) pumped out from the affected area is __________ × 106 m3. (In integer) ",
+      "options": [],
+      "answer": "8"
+    },
+    {
+      "question": "A Cu deposit of 198 tons with average grade of 1.5% Cu contains 60% chalcopyrite, 30% bornite and 10% gangue. The maximum amount of Cu that can be extracted from chalcopyrite is ____________ tons. (Round off to two decimal places) ",
+      "options": [],
+      "answer": "1.76"
+    },
+    {
+      "question": "The orientations of two planar limbs of an overturned antiform are 045°/72°SE and 225°/37°SE. The interlimb angle of the fold in degrees is ____________. (In integer) ",
+      "options": [],
+      "answer": "35"
+    },
+    {
+      "question": "Two boreholes A and B, both inclined towards 270°, penetrate a dipping coal bed at the same point and pass through it entirely in the sub-surface as shown in the figure below. The bed dips towards 270°. The thickness of the coal bed, measured along the borehole A is 10 m and along borehole B is 8 m. The angle between the two boreholes is 20°. The orthogonal thickness (x) of the coal bed is ___________m. (Round off to one decimal place) ",
+      "options": [],
+      "answer": "7.3"
+    }
+  ]
+}
